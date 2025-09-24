@@ -1,0 +1,1001 @@
+id,platform,text,lat,lng,timestamp,hazard_type,user_name,likes,language,is_verified
+1,Twitter,Massive waves crashing at Marina Beach right now! #Chennai #HighTide,13.0827,80.2707,2024-06-10T08:15:00Z,high_wave,SurfWatch_India,142,en,True
+2,YouTube,Cyclone alert issued for coastal Tamil Nadu. Stay safe everyone.,10.7905,78.7047,2024-06-10T09:30:00Z,cyclone,WeatherChannelIN,3156,en,True
+3,Twitter,Oil spill near Ennore port. Water looks dark and polluted. Avoid fishing.,13.2218,80.3215,2024-06-10T10:45:00Z,oil_spill,LocalFisherman,18,ta,False
+4,Facebook,Beautiful calm sea at Kovalam today. Perfect for swimming! 🌊,8.4004,76.978,2024-06-10T11:20:00Z,safe,TourismKerala,289,ml,True
+5,Instagram,URGENT: High waves damaging coastal road in Puri. Avoid beach area immediately.,19.8135,85.8312,2024-06-10T12:05:00Z,high_wave,OdishaAlert,1203,en,True
+6,Twitter,Beach erosion getting worse at Vizag. When will authorities act? #CoastalErosion,17.6868,83.2185,2024-06-10T13:40:00Z,erosion,EnvActivist,267,te,False
+7,YouTube,Dangerous rip currents at Palolem beach. 3 tourists rescued today! Stay safe.,15.0104,74.0235,2024-06-10T14:15:00Z,rip_current,GoaNews,512,en,True
+8,Twitter,Fishermen warning: Strong winds and rough seas expected next 48 hours. Don't venture out.,9.9312,76.2673,2024-06-10T15:30:00Z,cyclone,CoastGuard_KOCHI,131,ml,True
+9,Instagram,Sunset beaches are safe now. No more high waves #MumbaiBeaches,19.076,72.8777,2024-06-10T16:45:00Z,safe,BeachLover,1215,hi,False
+10,Twitter,"IMD issues tsunami drill alert for coastal areas. This is just a drill, don't panic!",12.9716,77.5946,2024-06-10T17:20:00Z,tsunami,IMD_Official,2309,en,True
+11,Facebook,Flood warning in low-lying areas of Chennai after heavy rains. Stay alert.,13.0827,80.2707,2024-06-10T18:05:00Z,flood,ChennaiRains,178,ta,True
+12,Instagram,Red flag up at all beaches in Goa. Swimming strictly prohibited today!,15.2993,74.124,2024-06-10T19:50:00Z,high_wave,GoaTourism,645,en,True
+13,YouTube,Coastal erosion threatens ancient temple in Mahabalipuram. Urgent action needed.,12.6167,80.1917,2024-06-10T20:35:00Z,erosion,HistoryBuff,492,ta,False
+14,Twitter,Water quality improved at Juhu beach. Safe for swimming now. Test results normal.,19.076,72.8777,2024-06-10T21:10:00Z,safe,MumbaiMCGM,147,hi,True
+15,Twitter,Oil tanker leak contained. Cleanup operations underway #VizagPort,17.6868,83.2185,2024-06-10T22:25:00Z,oil_spill,VizagPort,683,te,True
+16,Facebook,Amazing dolphin sighting at Puri beach today! Sea is calm and beautiful 🐬,19.8135,85.8312,2024-06-10T23:40:00Z,safe,WildlifeIndia,1276,en,False
+17,Instagram,EMERGENCY: Cyclone evacuation orders for coastal villages. Move to shelters immediately.,16.5062,80.648,2024-06-11T00:15:00Z,cyclone,NDRF_India,2421,te,True
+18,YouTube,Massive high tides at Marine Drive today. Amazing to watch but stay safe!,18.9217,72.8343,2024-06-11T01:30:00Z,high_wave,MumbaiDiaries,898,hi,False
+19,Twitter,Rip current warning at Kovalam beach. 2 rescues today. Swim only in designated areas.,8.4004,76.978,2024-06-11T02:45:00Z,rip_current,Lifeguard_Kerala,164,ml,True
+20,Twitter,Coastal flooding in low-lying areas of Chennai after heavy rains. Avoid these areas:,13.0827,80.2707,2024-06-11T03:20:00Z,flood,ChennaiWeather,432,ta,True
+21,Facebook,Tsunami warning system test successful along east coast. Regular maintenance ensures safety.,15.9129,80.4673,2024-06-11T04:35:00Z,tsunami,INCOIS_Official,567,en,True
+22,Instagram,Beach cleanup drive at Puri tomorrow. Volunteers needed to combat plastic pollution.,19.8135,85.8312,2024-06-11T05:50:00Z,safe,CleanSeas,321,en,False
+23,YouTube,Massive waves damage fishing boats at Rameswaram. Fishermen demand compensation.,9.2882,79.3174,2024-06-11T06:15:00Z,high_wave,TN_Fishermen,789,ta,False
+24,Twitter,Coastal erosion threatening houses in Digha. Authorities please take action.,21.627,87.5272,2024-06-11T07:40:00Z,erosion,DighaResident,45,hi,False
+25,Twitter,Beautiful sunrise at Marina Beach. Calm waters perfect for morning walk #Chennai,13.0827,80.2707,2024-06-11T08:05:00Z,safe,MorningWalker,156,ta,False
+26,Facebook,Oil spill containment successful at Paradip port. Cleanup continues.,20.316,86.6105,2024-06-11T09:20:00Z,oil_spill,ParadipPort,234,en,True
+27,Instagram,High wave alert for South Gujarat coast. Fishermen advised to return to shore.,20.9517,70.3927,2024-06-11T10:45:00Z,high_wave,GujaratWeather,189,hi,True
+28,YouTube,Dangerous rip currents at Varkala beach. Tourists ignore warning signs - lifeguards busy.,8.7333,76.7167,2024-06-11T11:10:00Z,rip_current,KeralaTourism,412,ml,True
+29,Twitter,Cyclone preparedness meeting tomorrow at collector office. All fishermen representatives must attend.,16.5062,80.648,2024-06-11T12:35:00Z,cyclone,AP_DisasterMgmt,78,te,True
+30,Twitter,Coastal flooding recedes in Chennai. Cleanup operations begin #ChennaiRains,13.0827,80.2707,2024-06-11T13:50:00Z,flood,ChennaiCorp,267,ta,True
+31,Facebook,Beautiful coral reef spotted at Netrani Island. Marine life thriving!,14.0167,74.3167,2024-06-11T14:15:00Z,safe,ScubaIndia,876,en,False
+32,Instagram,EMERGENCY: Oil spill reported near Haldia port. Containment measures initiated.,22.0667,88.0694,2024-06-11T15:40:00Z,oil_spill,HaldiaPort,345,hi,True
+33,YouTube,Massive coastal erosion at Udupi. Several houses evacuated due to land erosion.,13.3389,74.7451,2024-06-11T16:05:00Z,erosion,UdupiNews,223,en,False
+34,Twitter,High waves expected at Dhanushkodi. Tourists advised not to visit tomorrow.,9.15,79.45,2024-06-11T17:30:00Z,high_wave,RameswaramGuide,67,ta,False
+35,Twitter,Tsunami drill completed successfully. Public response excellent #CoastalSafety,12.9716,77.5946,2024-06-11T18:45:00Z,tsunami,NDMA_India,567,en,True
+36,Facebook,Rip current awareness program at Goa beaches. Tourists learning safety measures.,15.2993,74.124,2024-06-11T19:10:00Z,rip_current,GoaLifeguards,198,en,True
+37,Instagram,Cyclone warning withdrawn. Conditions improving along Andhra coast.,16.5062,80.648,2024-06-11T20:35:00Z,cyclone,IMD_AP,312,te,True
+38,YouTube,Flood waters receding in Chennai. Damage assessment underway #ChennaiFloods,13.0827,80.2707,2024-06-11T21:50:00Z,flood,TN_DisasterMgmt,456,ta,True
+39,Twitter,Water quality test results: All beaches in Mumbai safe for swimming. Enjoy!,19.076,72.8777,2024-06-11T22:15:00Z,safe,MCGM_Health,123,hi,True
+40,Twitter,Massive turtle nesting at Rushikulya beach. Beach closed for conservation #Odisha,19.38,85.07,2024-06-11T23:40:00Z,safe,WildlifeOdisha,789,en,False
+41,Facebook,Oil spill cleanup completed at Ennore. Fishing activities can resume tomorrow.,13.2218,80.3215,2024-06-12T00:05:00Z,oil_spill,TN_Fisheries,234,ta,True
+42,Instagram,High wave warning for Karnataka coast. Fishermen advised not to venture out for 24 hours.,13.3409,74.7421,2024-06-12T01:30:00Z,high_wave,KarnatakaMaritime,167,en,True
+43,YouTube,Coastal erosion monitoring system installed at Puri. Early warning for residents.,19.8135,85.8312,2024-06-12T02:45:00Z,erosion,OdishaGovt,289,en,True
+44,Twitter,Rip current danger reduced at Kovalam. Yellow flag now instead of red.,8.4004,76.978,2024-06-12T03:10:00Z,rip_current,KovalamBeach,45,ml,True
+45,Twitter,Cyclone preparedness drill successful in coastal villages. Community participation excellent.,16.5062,80.648,2024-06-12T04:35:00Z,cyclone,AP_DisasterMgmt,189,te,True
+46,Facebook,Flood damage assessment complete. Compensation distribution begins tomorrow #Chennai,13.0827,80.2707,2024-06-12T05:50:00Z,flood,TN_Relief,267,ta,True
+47,Instagram,Tsunami warning system upgrade completed. Better coverage for remote islands.,8.7139,77.7567,2024-06-12T06:15:00Z,tsunami,INCOIS_Update,156,en,True
+48,YouTube,Beautiful marine life documentary filmed at Lakshadweep. Coral reefs thriving!,10.5667,72.6417,2024-06-12T07:40:00Z,safe,LakshadweepTV,987,en,False
+49,Twitter,Water sports resumed at all Goa beaches. Conditions normal and safe.,15.2993,74.124,2024-06-12T08:05:00Z,safe,GoaTourism,234,en,True
+50,Twitter,Coastal clean-up drive collects 5 tons of plastic waste from Mumbai beaches. Great initiative!,19.076,72.8777,2024-06-12T09:20:00Z,safe,MCGM_Clean,456,hi,True
+51,Facebook,Oil spill response training conducted for port authorities. Better preparedness now.,12.9667,80.25,2024-06-12T10:45:00Z,oil_spill,IndianCoastGuard,178,en,True
+52,Instagram,High wave alert extended for another 24 hours along Kerala coast. Stay safe.,10.8505,76.2711,2024-06-12T11:10:00Z,high_wave,KeralaMaritime,123,ml,True
+53,YouTube,Coastal erosion affecting historic lighthouse at Mahabalipuram. Restoration work needed.,12.6167,80.1917,2024-06-12T12:35:00Z,erosion,ASI_India,267,ta,False
+54,Twitter,Rip current warning issued for Gokarna beaches. Tourists advised to follow lifeguard instructions.,14.55,74.3167,2024-06-12T13:50:00Z,rip_current,GokarnaTourism,89,en,False
+55,Twitter,Cyclone relief materials distributed to affected families. Government response praised.,16.5062,80.648,2024-06-12T14:15:00Z,cyclone,AP_CM,345,te,True
+56,Facebook,Flood early warning system prevented major casualties in Chennai. Technology saves lives!,13.0827,80.2707,2024-06-12T15:40:00Z,flood,TN_Technology,512,ta,True
+57,Instagram,Tsunami detection buoys deployed in Bay of Bengal. Enhanced safety for coastal communities.,15,87,2024-06-12T16:05:00Z,tsunami,INCOIS_Tech,234,en,True
+58,YouTube,Amazing whale sighting off Visakhapatnam coast. Marine biodiversity improving!,17.6868,83.2185,2024-06-12T17:30:00Z,safe,VizagMarine,678,te,False
+59,Twitter,All beaches declared safe after water quality tests. Normal activities resumed.,19.076,72.8777,2024-06-12T18:45:00Z,safe,MCGM_Official,156,hi,True
+60,Twitter,Coastal protection wall construction begins at eroding beach in Puri. Long-term solution.,19.8135,85.8312,2024-06-12T19:10:00Z,erosion,OdishaCM,289,en,True
+61,Facebook,Oil spill response team wins national award for quick containment at Vizag.,17.6868,83.2185,2024-06-12T20:35:00Z,oil_spill,VizagNews,178,te,True
+62,Instagram,High wave warning downgraded to advisory. Conditions improving gradually.,15.2993,74.124,2024-06-12T21:50:00Z,high_wave,GoaWeather,67,en,True
+63,YouTube,Rip current rescue demonstration at Puri beach. Tourists learning safety techniques.,19.8135,85.8312,2024-06-12T22:15:00Z,rip_current,PuriLifeguards,145,en,True
+64,Twitter,Cyclone aftermath: Restoration work completed in record time. Power restored to all villages.,16.5062,80.648,2024-06-12T23:40:00Z,cyclone,AP_Energy,234,te,True
+65,Twitter,Flood prevention infrastructure worked perfectly in Chennai. No major damage reported.,13.0827,80.2707,2024-06-13T00:05:00Z,flood,ChennaiDevelopment,189,ta,True
+66,Facebook,Tsunami early warning system tested successfully. Public awareness key to safety.,12.9716,77.5946,2024-06-13T01:30:00Z,tsunami,NDMA_Safety,156,en,True
+67,Instagram,Marine pollution levels at all-time low. Clean beach initiatives showing results.,19.076,72.8777,2024-06-13T02:45:00Z,safe,MCGM_Environment,267,hi,True
+68,YouTube,Coastal erosion control measures successful at vulnerable beaches. Geo-tubes working well.,13.0827,80.2707,2024-06-13T03:10:00Z,erosion,IITMadras,178,ta,True
+69,Twitter,Oil spill response drill scheduled tomorrow at major ports. Enhanced preparedness.,12.9667,80.25,2024-06-13T04:35:00Z,oil_spill,PortAuthority,89,en,True
+70,Twitter,High wave monitoring system installed along entire coastline. Real-time data available.,15.2993,74.124,2024-06-13T05:50:00Z,high_wave,INCOIS_Data,234,en,True
+71,Facebook,Rip current prediction model developed by Indian scientists. Accurate forecasts now possible.,8.4004,76.978,2024-06-13T06:15:00Z,rip_current,IITMResearch,156,ml,True
+72,Instagram,Cyclone resistant housing completed for coastal communities. Disaster resilient infrastructure.,16.5062,80.648,2024-06-13T07:40:00Z,cyclone,AP_Housing,189,te,True
+73,YouTube,Flood water drainage system upgraded in Chennai. No waterlogging this monsoon.,13.0827,80.2707,2024-06-13T08:05:00Z,flood,ChennaiCorp,267,ta,True
+74,Twitter,Tsunami evacuation routes clearly marked in all coastal villages. Regular drills conducted.,19.8135,85.8312,2024-06-13T09:20:00Z,tsunami,OdishaDisaster,145,en,True
+75,Twitter,Beach water quality monitoring app launched. Real-time safety information for tourists.,15.2993,74.124,2024-06-13T10:45:00Z,safe,GoaTourismApp,312,en,True
+76,Facebook,Coastal erosion early warning system developed. Alerts sent to vulnerable communities.,17.6868,83.2185,2024-06-13T11:10:00Z,erosion,AP_Technology,178,te,True
+77,Instagram,Oil spill detection using satellite technology. Faster response times achieved.,13.2218,80.3215,2024-06-13T12:35:00Z,oil_spill,ISRO_App,234,ta,True
+78,YouTube,High wave energy potential study completed. Renewable energy opportunities identified.,19.076,72.8777,2024-06-13T13:50:00Z,high_wave,NIOT_Research,156,hi,True
+79,Twitter,Rip current awareness campaign reaching millions. Tourist safety priority.,8.4004,76.978,2024-06-13T14:15:00Z,rip_current,KeralaTourism,189,ml,True
+80,Twitter,Cyclone forecasting accuracy improved with new supercomputer. Better early warnings.,16.5062,80.648,2024-06-13T15:40:00Z,cyclone,IMD_Tech,267,te,True
+81,Facebook,Flood resistant infrastructure completed in low-lying areas. Community protection enhanced.,13.0827,80.2707,2024-06-13T16:05:00Z,flood,ChennaiDevelopment,178,ta,True
+82,Instagram,Tsunami detection network expanded to cover entire Indian Ocean. Regional cooperation.,12.9716,77.5946,2024-06-13T17:30:00Z,tsunami,INCOIS_International,234,en,True
+83,YouTube,Marine conservation efforts showing results. Coral reefs regenerating in protected areas.,10.5667,72.6417,2024-06-13T18:45:00Z,safe,LakshadweepConserve,456,en,False
+84,Twitter,Coastal community resilience program launched. Disaster preparedness training for all.,19.8135,85.8312,2024-06-13T19:10:00Z,safe,UNDP_India,189,en,True
+85,Twitter,Erosion control using natural methods successful. Mangrove plantation protecting coasts.,13.0827,80.2707,2024-06-13T20:35:00Z,erosion,TN_Forest,156,ta,True
+86,Facebook,Oil spill bioremediation technology developed. Eco-friendly cleanup methods.,17.6868,83.2185,2024-06-13T21:50:00Z,oil_spill,IITKGP_Research,123,te,True
+87,Instagram,High wave energy converter installed for pilot project. Renewable power from ocean.,15.2993,74.124,2024-06-13T22:15:00Z,high_wave,NIOT_Energy,178,en,True
+88,YouTube,Rip current forecasting model validated with real data. Accuracy over 90% achieved.,8.4004,76.978,2024-06-13T23:40:00Z,rip_current,IITM_Science,145,ml,True
+89,Twitter,Cyclone shelter construction completed in all vulnerable villages. Safety ensured.,16.5062,80.648,2024-06-14T00:05:00Z,cyclone,AP_Infra,234,te,True
+90,Twitter,Flood early warning system prevented economic losses of ₹500 crore. Investment justified.,13.0827,80.2707,2024-06-14T01:30:00Z,flood,TN_Economy,189,ta,True
+91,Facebook,Tsunami warning dissemination time reduced to 3 minutes. Technology saving lives.,12.9716,77.5946,2024-06-14T02:45:00Z,tsunami,INCOIS_Tech,156,en,True
+92,Instagram,Coastal water quality improved to excellent levels. Continuous monitoring effective.,19.076,72.8777,2024-06-14T03:10:00Z,safe,MCGM_Water,267,hi,True
+93,YouTube,Beach erosion control using submerged reefs successful. Natural protection method.,13.0827,80.2707,2024-06-14T04:35:00Z,erosion,IITM_Engineering,178,ta,True
+94,Twitter,Oil spill detection using drone technology. Faster response and containment.,12.9667,80.25,2024-06-14T05:50:00Z,oil_spill,DRDO_Tech,145,en,True
+95,Twitter,High wave forecasting accuracy improved with AI models. Better predictions for fishermen.,15.2993,74.124,2024-06-14T06:15:00Z,high_wave,IITB_AI,234,en,True
+96,Facebook,Rip current rescue equipment upgraded at all beaches. Modern safety gear installed.,8.4004,76.978,2024-06-14T07:40:00Z,rip_current,Kerala_Safety,156,ml,True
+97,Instagram,Cyclone resistant crops developed for coastal farmers. Agriculture resilience improved.,16.5062,80.648,2024-06-14T08:05:00Z,cyclone,ICAR_Research,189,te,True
+98,YouTube,Flood water storage system implemented in Chennai. Water conservation during floods.,13.0827,80.2707,2024-06-14T09:20:00Z,flood,ChennaiWater,178,ta,True
+99,Twitter,Tsunami education program in schools. Children learning disaster safety from young age.,19.8135,85.8312,2024-06-14T10:45:00Z,tsunami,Odisha_Education,145,en,True
+100,Twitter,Coastal tourism revenue increased by 40% after safety improvements. Economic benefits.,15.2993,74.124,2024-06-14T11:10:00Z,safe,Goa_Economy,267,en,True
+101,Twitter,"Sea water entered huts near beach, total mess 🌊",21.54,72.76,4/24/2024 21:42,Storm Surge,Tapas Ghosh,436,te,True
+102,Twitter,"Sea water entered huts near beach, total mess 🌊",21.52,72.6,4/5/2024 4:39,Storm Surge,Ashok Babu,324,te,False
+103,Threads,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",9.94,76.37,4/30/2024 16:29,High Waves,Arjun Kumar,34,kn,True
+104,Threads,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,20.09,86.49,4/24/2024 8:30,Tsunami,Santosh Yadav,16,te,False
+105,Threads,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,19.95,87.54,4/2/2024 1:33,Tsunami,Ravi Menon,34,hi,True
+106,Instagram,"Rain+sea = flood everywhere, ppl shifting to safer place.",13.03,74.81,4/2/2024 7:50,Flash Flood,Suresh Pillai,298,gu,True
+107,Twitter,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",22.35,88.11,4/11/2024 4:14,Rip Currents,Mohan Lal,367,te,True
+108,Facebook,"Hari Prasad: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",12.76,74.99,4/29/2024 10:55,Cyclone,Hari Prasad,9,hi,False
+109,Facebook,"Rain+sea = flood everywhere, ppl shifting to safer place.",21.74,72.78,4/20/2024 22:49,Flash Flood,Rajesh Swain,9,en,False
+110,Facebook,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,20,87.63,4/23/2024 11:27,Tsunami,Anil Kumar,27,bn,False
+111,Twitter,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",9.86,76.25,4/12/2024 19:51,Rip Currents,Tapas Ghosh,278,en,False
+112,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",9.88,76.08,4/8/2024 7:41,Rip Currents,Vijay Shetty,42,te,True
+113,Facebook,"Sea water entered huts near beach, total mess 🌊",16.84,82.35,4/10/2024 21:09,Storm Surge,Ravi Menon,16,kn,True
+114,Threads,"Joseph D’Souza: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",12.71,75,4/18/2024 18:19,Cyclone,Joseph D’Souza,17,ta,True
+115,Twitter,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",22.16,88.03,4/2/2024 17:10,High Waves,Deepak Sahu,127,ml,True
+116,YouTube Comments,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",22.32,88.2,4/2/2024 12:03,High Waves,Vikram Singh,6,gu,True
+117,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,21.58,72.84,4/29/2024 19:38,Tsunami,Anil Kumar,9,te,False
+118,Twitter,Water greenish & dead fish floating 🤢 not good for fishing.,19.88,87.5,4/10/2024 14:37,Algal Bloom,Mohan Lal,289,bn,True
+119,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,22.18,87.89,4/24/2024 16:44,Algal Bloom,Vijay Shetty,299,gu,False
+120,Facebook,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",17.05,82.27,4/5/2024 9:39,High Waves,Santosh Yadav,24,gu,False
+121,Twitter,Water greenish & dead fish floating 🤢 not good for fishing.,20.39,86.69,4/28/2024 10:09,Algal Bloom,Tapas Ghosh,287,en,True
+122,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",19.76,87.27,4/18/2024 11:23,Rip Currents,Kamal Hassan,5,ml,True
+123,Facebook,"Suresh Pillai: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",17.16,82.36,4/23/2024 13:08,Cyclone,Suresh Pillai,35,en,True
+124,Facebook,"Rain+sea = flood everywhere, ppl shifting to safer place.",12.95,80.19,4/24/2024 2:12,Flash Flood,Sundar Raj,9,ta,True
+125,YouTube Comments,"Sea water entered huts near beach, total mess 🌊",20,87.41,4/12/2024 15:15,Storm Surge,Ganesh Naik,8,te,True
+126,Twitter,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",20.31,86.52,4/5/2024 19:45,High Waves,Santosh Yadav,422,hi,False
+127,Instagram,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",19.99,87.52,4/16/2024 3:36,High Waves,Joseph D’Souza,440,ta,True
+128,Twitter,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",21.77,72.61,4/27/2024 14:44,High Waves,Kamal Hassan,354,te,True
+129,YouTube Comments,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",13.21,80.1,4/8/2024 10:52,Rip Currents,Ganesh Naik,5,gu,True
+130,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,9.88,76.45,4/16/2024 8:22,Algal Bloom,Hari Prasad,280,en,False
+131,Threads,"Deepak Sahu: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",19.92,87.51,4/9/2024 13:54,Cyclone,Deepak Sahu,41,bn,True
+132,Twitter,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",19.98,87.31,4/2/2024 10:24,Rip Currents,Rajesh Swain,385,hi,True
+133,Facebook,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,22.32,87.94,4/2/2024 8:05,Tsunami,Sundar Raj,36,ta,False
+134,Facebook,"Good day fishing 🎣 decent catch, sea calm today.",13.02,80.21,4/25/2024 22:00,None,Shyamal Bose,27,kn,True
+135,YouTube Comments,"Santosh Yadav: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",21.53,72.62,4/24/2024 8:53,Cyclone,Santosh Yadav,6,te,True
+136,Twitter,"Good day fishing 🎣 decent catch, sea calm today.",19.97,87.65,4/10/2024 8:48,None,Ashok Babu,246,bn,False
+137,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,12.95,80.23,4/1/2024 7:08,Algal Bloom,Ramesh Patel,250,te,True
+138,Instagram,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",9.99,76.35,4/23/2024 16:34,High Waves,Arjun Kumar,314,te,True
+139,Instagram,"Rain+sea = flood everywhere, ppl shifting to safer place.",19.66,87.55,4/9/2024 1:44,Flash Flood,Hari Prasad,83,bn,True
+140,Threads,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,19.65,87.65,4/21/2024 7:36,Tsunami,Tapas Ghosh,38,ml,False
+141,YouTube Comments,"Rain+sea = flood everywhere, ppl shifting to safer place.",19.74,87.29,4/14/2024 20:24,Flash Flood,Hari Prasad,9,kn,True
+142,Threads,"Shyamal Bose: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",17.06,82.37,4/18/2024 6:40,Cyclone,Shyamal Bose,38,te,True
+143,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,9.76,76.35,4/19/2024 8:12,Algal Bloom,Rajesh Swain,92,ml,False
+144,Instagram,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",19.84,87.39,4/8/2024 6:27,Rip Currents,Vikram Singh,317,en,True
+145,YouTube Comments,"Sea water entered huts near beach, total mess 🌊",9.79,76.07,4/5/2024 2:23,Storm Surge,Vikram Singh,10,kn,False
+146,YouTube Comments,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",19.81,87.65,4/14/2024 15:35,Rip Currents,Vijay Shetty,1,bn,True
+147,Threads,"Rain+sea = flood everywhere, ppl shifting to safer place.",21.73,72.66,4/26/2024 22:06,Flash Flood,Ravi Menon,30,en,True
+148,Threads,"Anil Kumar: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",12.89,80.22,4/21/2024 7:47,Cyclone,Anil Kumar,4,bn,True
+149,Facebook,"Sea water entered huts near beach, total mess 🌊",17.08,82.36,4/20/2024 12:58,Storm Surge,Mohan Lal,41,en,False
+150,Instagram,"Sea water entered huts near beach, total mess 🌊",12.79,74.69,4/12/2024 18:35,Storm Surge,Ganesh Naik,5,gu,False
+151,Instagram,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,12.78,74.75,4/16/2024 8:42,Tsunami,Deepak Sahu,119,en,False
+152,Threads,"Good day fishing 🎣 decent catch, sea calm today.",12.71,74.84,4/19/2024 10:22,None,Vijay Shetty,49,hi,False
+153,Twitter,Water greenish & dead fish floating 🤢 not good for fishing.,12.9,80.43,4/1/2024 4:30,Algal Bloom,Vijay Shetty,495,kn,True
+154,Facebook,"Good day fishing 🎣 decent catch, sea calm today.",9.78,76.09,4/1/2024 17:43,None,Vijay Shetty,11,te,False
+155,Twitter,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",12.91,74.8,4/4/2024 7:26,Rip Currents,Hari Prasad,477,gu,True
+156,Facebook,"Good day fishing 🎣 decent catch, sea calm today.",20.41,86.49,4/27/2024 3:44,None,Tapas Ghosh,11,kn,FALSE
+157,Threads,"Good day fishing 🎣 decent catch, sea calm today.",21.54,72.68,4/4/2024 20:14,None,Deepak Sahu,44,kn,True
+158,Threads,"Vikram Singh: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",22.25,87.88,4/26/2024 12:04,Cyclone,Vikram Singh,25,gu,False
+159,Facebook,"Sea water entered huts near beach, total mess 🌊",10,76.34,4/19/2024 4:27,Storm Surge,Rajesh Swain,1,kn,True
+160,Threads,"Good day fishing 🎣 decent catch, sea calm today.",22.1,88.04,4/14/2024 8:29,None,Ganesh Naik,9,te,False
+161,Twitter,"Sea water entered huts near beach, total mess 🌊",19.87,87.64,4/22/2024 21:40,Storm Surge,Suresh Pillai,187,kn,True
+162,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,21.56,72.89,4/14/2024 22:25,Algal Bloom,Ramesh Patel,298,en,True
+163,Twitter,"Good day fishing 🎣 decent catch, sea calm today.",21.73,72.87,4/8/2024 9:10,None,Mohan Lal,434,bn,False
+164,Twitter,"Rain+sea = flood everywhere, ppl shifting to safer place.",19.79,87.38,4/27/2024 18:36,Flash Flood,Ganesh Naik,21,kn,True
+165,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,22.2,88.12,4/16/2024 12:38,Tsunami,Shyamal Bose,4,ml,True
+166,Twitter,"Arjun Kumar: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",22.3,87.87,4/19/2024 19:10,Cyclone,Arjun Kumar,453,te,False
+167,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",12.96,75.01,4/6/2024 7:49,Rip Currents,Ashok Babu,24,bn,True
+168,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,9.76,76.21,4/22/2024 14:47,Algal Bloom,Deepak Sahu,48,gu,True
+169,Instagram,"Sea water entered huts near beach, total mess 🌊",20.19,86.49,4/9/2024 20:02,Storm Surge,Tapas Ghosh,157,kn,False
+170,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,12.83,74.83,4/27/2024 15:02,Tsunami,Deepak Sahu,7,te,True
+171,Twitter,"Good day fishing 🎣 decent catch, sea calm today.",22.25,88,4/5/2024 11:50,None,Rajesh Swain,488,en,True
+172,YouTube Comments,"Rajesh Swain: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",13.01,74.85,4/9/2024 1:25,Cyclone,Rajesh Swain,7,en,True
+173,Threads,"Good day fishing 🎣 decent catch, sea calm today.",22.28,88.26,4/5/2024 12:14,None,Ganesh Naik,4,ta,False
+174,Instagram,"Rain+sea = flood everywhere, ppl shifting to safer place.",12.84,74.75,4/14/2024 20:40,Flash Flood,Kamal Hassan,262,hi,True
+175,Twitter,Water greenish & dead fish floating 🤢 not good for fishing.,9.84,76.43,4/29/2024 10:09,Algal Bloom,Ashok Babu,432,te,True
+176,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,20,87.4,4/25/2024 12:19,Algal Bloom,Ramesh Patel,20,ta,False
+177,YouTube Comments,"Vijay Shetty: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",19.72,87.31,4/21/2024 19:00,Cyclone,Vijay Shetty,7,kn,True
+178,YouTube Comments,"Rain+sea = flood everywhere, ppl shifting to safer place.",21.44,72.93,4/26/2024 7:39,Flash Flood,Shyamal Bose,8,en,False
+179,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,13.08,74.83,4/13/2024 5:06,Tsunami,Mohan Lal,2,ml,True
+180,Twitter,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",19.73,87.4,4/27/2024 4:44,High Waves,Shyamal Bose,239,hi,True
+181,Threads,"Rain+sea = flood everywhere, ppl shifting to safer place.",9.88,76.14,4/16/2024 16:16,Flash Flood,Vijay Shetty,49,bn,True
+182,YouTube Comments,"Rain+sea = flood everywhere, ppl shifting to safer place.",17.1,82.31,4/15/2024 22:36,Flash Flood,Santosh Yadav,4,gu,False
+183,Facebook,"Shyamal Bose: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",19.67,87.39,4/3/2024 7:19,Cyclone,Shyamal Bose,48,te,False
+184,Twitter,"Sea water entered huts near beach, total mess 🌊",19.99,87.62,4/23/2024 6:16,Storm Surge,Kamal Hassan,234,bn,False
+185,Instagram,"Ashok Babu: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",13.02,74.77,4/27/2024 3:50,Cyclone,Ashok Babu,33,ml,False
+186,Threads,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,13.08,74.82,4/20/2024 14:00,Tsunami,Mohan Lal,21,kn,True
+187,Twitter,"Sea water entered huts near beach, total mess 🌊",21.53,72.92,4/17/2024 20:57,Storm Surge,Sundar Raj,449,te,False
+188,Instagram,"Rain+sea = flood everywhere, ppl shifting to safer place.",21.74,72.66,4/23/2024 11:23,Flash Flood,Suresh Pillai,451,gu,True
+189,Facebook,Water greenish & dead fish floating 🤢 not good for fishing.,16.85,82.24,4/24/2024 9:04,Algal Bloom,Manoj Das,44,bn,False
+190,Threads,"Ashok Babu: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",20.33,86.79,4/11/2024 19:59,Cyclone,Ashok Babu,11,ta,True
+191,Instagram,"Rain+sea = flood everywhere, ppl shifting to safer place.",9.81,76.11,4/3/2024 10:59,Flash Flood,Rajesh Swain,333,ta,True
+192,Instagram,"Joseph D’Souza: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",21.5,72.8,4/2/2024 2:58,Cyclone,Joseph D’Souza,66,ml,True
+193,Twitter,"Sea water entered huts near beach, total mess 🌊",21.55,72.64,4/19/2024 21:38,Storm Surge,Joseph D’Souza,17,ml,False
+194,Instagram,"Sea water entered huts near beach, total mess 🌊",22.15,88.1,4/7/2024 8:57,Storm Surge,Shyamal Bose,227,ta,False
+195,Threads,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",22.21,88.14,4/25/2024 18:59,High Waves,Anil Kumar,9,gu,False
+196,Facebook,"Mohan Lal: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",22.38,88.1,4/3/2024 19:40,Cyclone,Mohan Lal,3,te,False
+197,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",21.7,72.91,4/16/2024 11:16,Rip Currents,Suresh Pillai,27,en,True
+198,Twitter,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,12.81,75,4/12/2024 23:45,Tsunami,Ramesh Patel,333,bn,True
+199,Facebook,"Rain+sea = flood everywhere, ppl shifting to safer place.",21.59,72.72,4/3/2024 15:10,Flash Flood,Manoj Das,6,en,True
+200,Twitter,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",16.86,82.43,4/14/2024 7:50,High Waves,Vijay Shetty,61,ta,True
+201,Instagram,"Sea water entered huts near beach, total mess 🌊",13.06,74.97,4/30/2024 13:14,Storm Surge,Anil Kumar,240,en,True
+202,Threads,"Rain+sea = flood everywhere, ppl shifting to safer place.",12.98,80.36,4/23/2024 23:32,Flash Flood,Ganesh Naik,31,ta,False
+203,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,9.77,76.24,4/23/2024 6:35,Algal Bloom,Ravi Menon,29,ta,True
+204,YouTube Comments,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",19.88,87.47,4/24/2024 1:45,High Waves,Arjun Kumar,7,ml,False
+205,Threads,"Rain+sea = flood everywhere, ppl shifting to safer place.",20.21,86.87,4/23/2024 9:46,Flash Flood,Deepak Sahu,7,gu,False
+206,Instagram,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,12.98,80.38,4/7/2024 20:30,Tsunami,Suresh Pillai,75,en,True
+207,Facebook,"Manoj Das: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",20.36,86.66,4/28/2024 10:49,Cyclone,Manoj Das,12,bn,True
+208,Threads,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",13.04,80.26,4/26/2024 18:50,High Waves,Ramesh Patel,47,bn,True
+209,Instagram,"Rain+sea = flood everywhere, ppl shifting to safer place.",21.64,72.61,4/17/2024 21:46,Flash Flood,Sundar Raj,219,ml,True
+210,Threads,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",9.76,76.36,4/25/2024 23:02,Rip Currents,Ganesh Naik,43,en,True
+211,Facebook,"Sea water entered huts near beach, total mess 🌊",19.78,87.55,4/2/2024 11:51,Storm Surge,Hari Prasad,2,gu,False
+212,Instagram,"Sea water entered huts near beach, total mess 🌊",22.11,88.03,4/26/2024 4:19,Storm Surge,Anil Kumar,299,gu,True
+213,YouTube Comments,Water greenish & dead fish floating 🤢 not good for fishing.,19.78,87.31,4/2/2024 15:53,Algal Bloom,Vijay Shetty,6,kn,True
+214,Instagram,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,13.02,74.68,4/22/2024 11:54,Tsunami,Manoj Das,16,ta,False
+215,Facebook,"Rain+sea = flood everywhere, ppl shifting to safer place.",17.15,82.36,4/12/2024 7:52,Flash Flood,Arjun Kumar,7,ta,True
+216,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,21.55,72.83,4/1/2024 21:26,Tsunami,Manoj Das,4,gu,True
+217,Twitter,"Rain+sea = flood everywhere, ppl shifting to safer place.",21.56,72.55,4/12/2024 16:11,Flash Flood,Rajesh Swain,325,en,False
+218,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,13.17,80.28,4/24/2024 6:17,Tsunami,Rajesh Swain,8,ta,True
+219,Instagram,"Good day fishing 🎣 decent catch, sea calm today.",20.16,86.8,4/26/2024 17:54,None,Ravi Menon,327,hi,True
+220,Instagram,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",12.83,75,4/21/2024 1:27,High Waves,Manoj Das,14,gu,False
+221,Twitter,"Rain+sea = flood everywhere, ppl shifting to safer place.",21.46,72.72,4/3/2024 16:19,Flash Flood,Anil Kumar,259,bn,True
+222,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",19.67,87.38,4/12/2024 17:52,Rip Currents,Shyamal Bose,10,gu,True
+223,Facebook,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,12.87,75.02,4/10/2024 15:29,Tsunami,Vijay Shetty,23,gu,True
+224,YouTube Comments,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",12.74,75.01,4/27/2024 12:13,Rip Currents,Shyamal Bose,7,te,False
+225,Instagram,"Sea water entered huts near beach, total mess 🌊",22.38,88.13,4/12/2024 6:17,Storm Surge,Joseph D’Souza,234,ta,True
+226,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,13.1,74.77,4/26/2024 8:57,Algal Bloom,Vijay Shetty,326,en,True
+227,Twitter,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,19.66,87.52,4/12/2024 11:04,Tsunami,Mohan Lal,110,ml,False
+228,Twitter,"Sea water entered huts near beach, total mess 🌊",10.01,76.42,4/25/2024 23:13,Storm Surge,Tapas Ghosh,17,kn,True
+229,Threads,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,20.22,86.67,4/14/2024 10:47,Tsunami,Kamal Hassan,49,ta,False
+230,Facebook,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",12.84,74.86,4/12/2024 23:09,High Waves,Manoj Das,32,hi,True
+231,YouTube Comments,"Sea water entered huts near beach, total mess 🌊",21.6,72.6,4/17/2024 17:12,Storm Surge,Kamal Hassan,10,en,True
+232,YouTube Comments,"Good day fishing 🎣 decent catch, sea calm today.",9.87,76.26,4/2/2024 15:48,None,Kamal Hassan,2,ml,True
+233,Twitter,"Good day fishing 🎣 decent catch, sea calm today.",19.81,87.32,4/19/2024 17:28,None,Shyamal Bose,364,ml,False
+234,Twitter,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",12.94,80.25,4/3/2024 12:03,High Waves,Deepak Sahu,370,te,False
+235,YouTube Comments,Water greenish & dead fish floating 🤢 not good for fishing.,12.9,74.99,4/1/2024 3:48,Algal Bloom,Manoj Das,1,bn,False
+236,Twitter,"Good day fishing 🎣 decent catch, sea calm today.",21.56,72.6,4/26/2024 6:10,None,Ravi Menon,218,bn,False
+237,Threads,"Arjun Kumar: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",21.56,72.56,4/8/2024 19:24,Cyclone,Arjun Kumar,49,kn,True
+238,Instagram,"Sea water entered huts near beach, total mess 🌊",19.71,87.61,4/14/2024 14:35,Storm Surge,Kamal Hassan,305,en,True
+239,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,21.61,72.67,4/25/2024 16:55,Tsunami,Santosh Yadav,0,kn,True
+240,Twitter,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",17.17,82.22,4/13/2024 21:11,High Waves,Arjun Kumar,419,hi,False
+241,YouTube Comments,Water greenish & dead fish floating 🤢 not good for fishing.,19.71,87.47,4/12/2024 12:10,Algal Bloom,Suresh Pillai,0,ml,True
+242,Instagram,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",21.66,72.92,4/28/2024 22:48,High Waves,Ramesh Patel,326,te,True
+243,Facebook,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,9.83,76.2,4/26/2024 21:01,Tsunami,Vikram Singh,31,kn,True
+244,Instagram,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",12.94,74.9,4/18/2024 16:30,High Waves,Ramesh Patel,127,gu,False
+245,YouTube Comments,Water greenish & dead fish floating 🤢 not good for fishing.,21.58,72.76,4/11/2024 16:20,Algal Bloom,Suresh Pillai,2,te,True
+246,Threads,"Good day fishing 🎣 decent catch, sea calm today.",20.33,86.75,4/22/2024 13:38,None,Sundar Raj,6,bn,True
+247,Instagram,"Deepak Sahu: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",12.89,80.4,4/9/2024 9:55,Cyclone,Deepak Sahu,259,ta,False
+248,Threads,"Good day fishing 🎣 decent catch, sea calm today.",20.3,86.74,4/12/2024 3:34,None,Ashok Babu,13,hi,True
+249,Twitter,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,19.69,87.57,4/5/2024 10:17,Tsunami,Sundar Raj,138,ml,True
+250,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,22.23,88.18,4/1/2024 10:07,Algal Bloom,Ravi Menon,258,ta,False
+251,Threads,"Vijay Shetty: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",16.84,82.13,4/16/2024 18:47,Cyclone,Vijay Shetty,5,hi,True
+252,YouTube Comments,Water greenish & dead fish floating 🤢 not good for fishing.,21.53,72.7,4/8/2024 11:36,Algal Bloom,Vikram Singh,2,gu,True
+253,YouTube Comments,"Good day fishing 🎣 decent catch, sea calm today.",19.85,87.26,4/21/2024 21:47,None,Rajesh Swain,6,ta,True
+254,Instagram,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",13.08,75.01,4/10/2024 6:41,Rip Currents,Joseph D’Souza,270,hi,False
+255,Facebook,Water greenish & dead fish floating 🤢 not good for fishing.,22.04,87.99,4/27/2024 18:39,Algal Bloom,Tapas Ghosh,4,en,True
+256,YouTube Comments,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",12.93,74.95,4/4/2024 0:16,High Waves,Arjun Kumar,1,ta,True
+257,Facebook,Water greenish & dead fish floating 🤢 not good for fishing.,16.91,82.13,4/8/2024 23:20,Algal Bloom,Rajesh Swain,35,te,False
+258,Instagram,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",21.47,72.68,4/9/2024 20:00,High Waves,Ashok Babu,369,hi,True
+259,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,16.83,82.06,4/15/2024 11:35,Algal Bloom,Rajesh Swain,6,bn,False
+260,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,10.03,76.2,4/12/2024 21:49,Tsunami,Kamal Hassan,4,en,True
+261,Twitter,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",19.77,87.62,4/23/2024 5:25,High Waves,Suresh Pillai,233,kn,True
+262,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,12.98,80.42,4/14/2024 5:52,Tsunami,Manoj Das,6,en,True
+263,YouTube Comments,"Sea water entered huts near beach, total mess 🌊",21.51,72.72,4/15/2024 16:23,Storm Surge,Kamal Hassan,0,te,False
+264,Instagram,"Rain+sea = flood everywhere, ppl shifting to safer place.",9.91,76.45,4/22/2024 2:29,Flash Flood,Rajesh Swain,119,bn,False
+265,Facebook,"Rain+sea = flood everywhere, ppl shifting to safer place.",22.05,88.06,4/6/2024 13:59,Flash Flood,Joseph D’Souza,30,bn,False
+266,Twitter,Water greenish & dead fish floating 🤢 not good for fishing.,19.68,87.4,4/2/2024 9:26,Algal Bloom,Rajesh Swain,15,gu,False
+267,Threads,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",9.92,76.24,4/3/2024 10:26,High Waves,Suresh Pillai,36,ta,True
+268,Instagram,"Vijay Shetty: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",20.46,86.88,4/23/2024 17:05,Cyclone,Vijay Shetty,366,kn,True
+269,Twitter,"Tapas Ghosh: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",13,74.74,4/8/2024 5:03,Cyclone,Tapas Ghosh,70,ml,True
+270,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,12.91,80.11,4/24/2024 22:00,Algal Bloom,Ganesh Naik,435,ta,False
+271,Twitter,"Good day fishing 🎣 decent catch, sea calm today.",19.79,87.55,4/27/2024 21:52,None,Arjun Kumar,64,te,True
+272,Facebook,"Good day fishing 🎣 decent catch, sea calm today.",13.19,80.1,4/30/2024 10:21,None,Shyamal Bose,27,en,True
+273,Threads,"Vijay Shetty: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",21.65,72.84,4/1/2024 0:47,Cyclone,Vijay Shetty,29,en,False
+274,Facebook,"Sea water entered huts near beach, total mess 🌊",20.25,86.86,4/18/2024 5:26,Storm Surge,Ashok Babu,47,gu,True
+275,Facebook,"Sea water entered huts near beach, total mess 🌊",22.24,88.17,4/26/2024 23:56,Storm Surge,Ramesh Patel,9,ml,True
+276,Facebook,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,13.18,80.09,4/23/2024 8:41,Tsunami,Hari Prasad,29,gu,False
+277,YouTube Comments,"Good day fishing 🎣 decent catch, sea calm today.",22.03,88.07,4/10/2024 9:08,None,Shyamal Bose,6,te,True
+278,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,16.9,82.36,4/15/2024 15:20,Algal Bloom,Manoj Das,9,ml,True
+279,YouTube Comments,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",12.88,74.89,4/20/2024 21:31,Rip Currents,Kamal Hassan,4,ml,True
+280,Facebook,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,12.93,80.18,4/20/2024 9:02,Tsunami,Shyamal Bose,27,bn,False
+281,Instagram,"Joseph D’Souza: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",12.93,80.44,4/11/2024 22:57,Cyclone,Joseph D’Souza,263,ml,True
+282,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",21.8,72.69,4/25/2024 2:30,Rip Currents,Vikram Singh,2,hi,True
+283,YouTube Comments,"Sea water entered huts near beach, total mess 🌊",21.58,72.6,4/23/2024 6:21,Storm Surge,Santosh Yadav,6,ta,False
+284,YouTube Comments,Water greenish & dead fish floating 🤢 not good for fishing.,16.94,82.22,4/25/2024 3:49,Algal Bloom,Vijay Shetty,0,ml,True
+285,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,21.75,72.81,4/21/2024 20:00,Algal Bloom,Hari Prasad,192,ta,False
+286,Facebook,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",19.95,87.51,4/24/2024 3:04,High Waves,Hari Prasad,22,ta,True
+287,Twitter,"Deepak Sahu: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",16.92,82.3,4/5/2024 18:41,Cyclone,Deepak Sahu,142,ta,True
+288,Instagram,"Rain+sea = flood everywhere, ppl shifting to safer place.",9.73,76.37,4/26/2024 2:12,Flash Flood,Sundar Raj,200,kn,True
+289,YouTube Comments,"Vikram Singh: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",9.89,76.08,4/5/2024 0:14,Cyclone,Vikram Singh,0,ml,False
+290,Threads,"Sea water entered huts near beach, total mess 🌊",12.87,74.91,4/8/2024 1:02,Storm Surge,Ravi Menon,18,bn,False
+291,Facebook,Water greenish & dead fish floating 🤢 not good for fishing.,21.47,72.62,4/14/2024 1:21,Algal Bloom,Ravi Menon,32,en,False
+292,YouTube Comments,"Rain+sea = flood everywhere, ppl shifting to safer place.",20.22,86.84,4/15/2024 11:29,Flash Flood,Arjun Kumar,10,hi,False
+293,Facebook,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",21.81,72.8,4/18/2024 6:22,High Waves,Tapas Ghosh,0,hi,True
+294,Facebook,"Rain+sea = flood everywhere, ppl shifting to safer place.",20.29,86.7,4/15/2024 14:28,Flash Flood,Manoj Das,10,bn,True
+295,Twitter,"Rain+sea = flood everywhere, ppl shifting to safer place.",10.03,76.07,4/11/2024 5:06,Flash Flood,Kamal Hassan,233,ml,True
+296,Instagram,"Good day fishing 🎣 decent catch, sea calm today.",9.81,76.34,4/10/2024 1:29,None,Mohan Lal,30,ta,False
+297,Instagram,"Vikram Singh: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",20.43,86.72,4/3/2024 21:29,Cyclone,Vikram Singh,214,hi,True
+298,YouTube Comments,"Anil Kumar: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",20.28,86.56,4/2/2024 21:20,Cyclone,Anil Kumar,6,te,True
+299,YouTube Comments,"Good day fishing 🎣 decent catch, sea calm today.",12.99,80.26,4/24/2024 0:02,None,Santosh Yadav,2,kn,False
+300,Twitter,"Good day fishing 🎣 decent catch, sea calm today.",20.36,86.58,4/29/2024 16:04,None,Vikram Singh,91,bn,True
+301,Threads,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",13.14,80.36,4/13/2024 10:01,High Waves,Tapas Ghosh,26,gu,True
+302,Instagram,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",21.73,72.78,4/23/2024 18:42,Rip Currents,Ravi Menon,336,te,False
+303,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,19.69,87.63,4/11/2024 14:17,Algal Bloom,Manoj Das,332,te,True
+304,YouTube Comments,Water greenish & dead fish floating 🤢 not good for fishing.,17.16,82.43,4/9/2024 12:54,Algal Bloom,Suresh Pillai,7,en,True
+305,Threads,"Sundar Raj: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",21.69,72.62,4/29/2024 4:06,Cyclone,Sundar Raj,28,hi,True
+306,Instagram,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,22.26,88.24,4/24/2024 18:22,Tsunami,Suresh Pillai,456,ta,False
+307,Threads,"Sea water entered huts near beach, total mess 🌊",19.65,87.65,4/10/2024 5:58,Storm Surge,Vikram Singh,33,ta,True
+308,Instagram,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",19.65,87.56,4/19/2024 2:28,High Waves,Ganesh Naik,142,te,True
+309,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,16.83,82.31,4/7/2024 11:34,Algal Bloom,Santosh Yadav,442,kn,False
+310,Instagram,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",12.72,74.7,4/24/2024 1:01,High Waves,Ganesh Naik,348,hi,True
+311,Twitter,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",21.63,72.68,4/4/2024 19:09,High Waves,Suresh Pillai,284,te,False
+312,YouTube Comments,Water greenish & dead fish floating 🤢 not good for fishing.,20.36,86.67,4/1/2024 4:02,Algal Bloom,Rajesh Swain,4,ml,True
+313,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,20.16,86.7,4/27/2024 9:21,Algal Bloom,Santosh Yadav,5,kn,True
+314,Instagram,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",16.95,82.13,4/9/2024 13:38,Rip Currents,Tapas Ghosh,5,ml,True
+315,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,13.15,80.09,4/3/2024 5:37,Algal Bloom,Tapas Ghosh,394,ta,False
+316,Instagram,"Rain+sea = flood everywhere, ppl shifting to safer place.",12.99,80.11,4/3/2024 23:09,Flash Flood,Rajesh Swain,90,kn,False
+317,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,20.41,86.74,4/17/2024 14:22,Algal Bloom,Arjun Kumar,245,ta,False
+318,Twitter,"Rain+sea = flood everywhere, ppl shifting to safer place.",16.99,82.21,4/18/2024 23:32,Flash Flood,Mohan Lal,291,ta,False
+319,Instagram,"Sea water entered huts near beach, total mess 🌊",13.04,74.88,4/10/2024 19:17,Storm Surge,Manoj Das,131,ta,True
+320,Facebook,"Rain+sea = flood everywhere, ppl shifting to safer place.",21.57,72.66,4/27/2024 18:15,Flash Flood,Rajesh Swain,19,hi,True
+321,Twitter,"Good day fishing 🎣 decent catch, sea calm today.",17.05,82.14,4/13/2024 8:20,None,Ganesh Naik,17,kn,True
+322,Threads,"Rain+sea = flood everywhere, ppl shifting to safer place.",9.88,76.45,4/24/2024 9:20,Flash Flood,Hari Prasad,24,en,False
+323,Instagram,"Santosh Yadav: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",22.23,88.23,4/21/2024 7:26,Cyclone,Santosh Yadav,398,ta,True
+324,Threads,"Vijay Shetty: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",17,82.41,4/1/2024 9:42,Cyclone,Vijay Shetty,11,kn,True
+325,Instagram,"Sea water entered huts near beach, total mess 🌊",19.73,87.64,4/30/2024 1:50,Storm Surge,Shyamal Bose,303,ml,False
+326,Facebook,Water greenish & dead fish floating 🤢 not good for fishing.,9.84,76.31,4/16/2024 1:46,Algal Bloom,Kamal Hassan,9,te,True
+327,Instagram,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",16.88,82.18,4/14/2024 17:15,High Waves,Shyamal Bose,308,hi,True
+328,Twitter,"Sea water entered huts near beach, total mess 🌊",20.1,86.74,4/26/2024 2:56,Storm Surge,Rajesh Swain,104,bn,False
+329,YouTube Comments,Water greenish & dead fish floating 🤢 not good for fishing.,16.88,82.28,4/22/2024 15:27,Algal Bloom,Arjun Kumar,5,ml,True
+330,Threads,"Sea water entered huts near beach, total mess 🌊",21.47,72.87,4/29/2024 10:22,Storm Surge,Tapas Ghosh,12,te,True
+331,Twitter,"Sea water entered huts near beach, total mess 🌊",9.96,76.29,4/30/2024 18:04,Storm Surge,Manoj Das,413,hi,True
+332,Twitter,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",20.45,86.68,4/4/2024 22:16,Rip Currents,Anil Kumar,157,ml,False
+333,Instagram,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",21.65,72.87,4/10/2024 11:11,Rip Currents,Kamal Hassan,202,hi,True
+334,YouTube Comments,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",12.97,80.29,4/8/2024 5:37,High Waves,Ganesh Naik,3,hi,True
+335,YouTube Comments,"Good day fishing 🎣 decent catch, sea calm today.",12.9,80.19,4/28/2024 9:10,None,Ramesh Patel,4,ml,False
+336,Facebook,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",21.57,72.73,4/1/2024 2:49,High Waves,Sundar Raj,27,bn,True
+337,Facebook,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",21.43,72.64,4/24/2024 7:21,High Waves,Suresh Pillai,46,gu,False
+338,Instagram,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,10.01,76.17,4/22/2024 18:48,Tsunami,Ashok Babu,359,en,True
+339,YouTube Comments,"Arjun Kumar: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",13.27,80.19,4/5/2024 0:22,Cyclone,Arjun Kumar,0,bn,True
+340,YouTube Comments,"Hari Prasad: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",19.89,87.48,4/30/2024 5:23,Cyclone,Hari Prasad,5,gu,True
+341,Threads,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",20.42,86.84,4/20/2024 10:04,Rip Currents,Ramesh Patel,6,te,False
+342,YouTube Comments,"Rain+sea = flood everywhere, ppl shifting to safer place.",12.96,74.9,4/14/2024 20:49,Flash Flood,Ganesh Naik,1,kn,False
+343,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,19.91,87.37,4/29/2024 23:08,Tsunami,Shyamal Bose,0,ml,False
+344,Facebook,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,17.11,82.41,4/13/2024 6:30,Tsunami,Suresh Pillai,9,kn,False
+345,Twitter,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",21.69,72.69,4/9/2024 23:00,Rip Currents,Ashok Babu,325,ta,True
+346,Facebook,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",17.09,82.07,4/2/2024 15:18,High Waves,Ravi Menon,24,bn,True
+347,Threads,"Sea water entered huts near beach, total mess 🌊",9.77,76.21,4/17/2024 2:26,Storm Surge,Shyamal Bose,47,bn,True
+348,Facebook,Water greenish & dead fish floating 🤢 not good for fishing.,21.44,72.92,4/13/2024 0:23,Algal Bloom,Tapas Ghosh,25,ta,False
+349,Twitter,"Rain+sea = flood everywhere, ppl shifting to safer place.",19.97,87.47,4/24/2024 16:22,Flash Flood,Manoj Das,417,gu,True
+350,Twitter,Water greenish & dead fish floating 🤢 not good for fishing.,20,87.49,4/23/2024 13:43,Algal Bloom,Manoj Das,227,gu,True
+351,YouTube Comments,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",22.07,88.21,4/19/2024 23:56,Rip Currents,Joseph D’Souza,6,te,False
+352,Twitter,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",21.77,72.78,4/30/2024 23:36,Rip Currents,Ganesh Naik,396,te,True
+353,Threads,"Rain+sea = flood everywhere, ppl shifting to safer place.",10.06,76.37,4/22/2024 20:22,Flash Flood,Ravi Menon,3,kn,True
+354,Facebook,"Sea water entered huts near beach, total mess 🌊",19.74,87.44,4/9/2024 23:38,Storm Surge,Anil Kumar,14,kn,False
+355,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",13.13,80.16,4/9/2024 0:55,Rip Currents,Shyamal Bose,7,ml,True
+356,Twitter,"Good day fishing 🎣 decent catch, sea calm today.",13.23,80.17,4/28/2024 19:38,None,Arjun Kumar,50,ml,True
+357,Threads,"Vijay Shetty: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",9.9,76.14,4/22/2024 7:50,Cyclone,Vijay Shetty,39,gu,True
+358,Facebook,"Rain+sea = flood everywhere, ppl shifting to safer place.",13.27,80.27,4/14/2024 8:23,Flash Flood,Santosh Yadav,4,en,False
+359,Instagram,"Sea water entered huts near beach, total mess 🌊",22.3,88.04,4/12/2024 7:00,Storm Surge,Vijay Shetty,42,hi,True
+360,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",13.21,80.28,4/24/2024 6:25,Rip Currents,Vijay Shetty,48,te,True
+361,Threads,"Ganesh Naik: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",16.81,82.38,4/22/2024 8:14,Cyclone,Ganesh Naik,28,en,False
+362,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,19.62,87.31,4/15/2024 1:32,Algal Bloom,Tapas Ghosh,469,gu,True
+363,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,20.27,86.67,4/7/2024 7:41,Algal Bloom,Rajesh Swain,102,ta,False
+364,Twitter,Water greenish & dead fish floating 🤢 not good for fishing.,20,87.4,4/29/2024 0:41,Algal Bloom,Shyamal Bose,377,en,True
+365,YouTube Comments,"Good day fishing 🎣 decent catch, sea calm today.",21.68,72.83,4/1/2024 10:27,None,Sundar Raj,2,hi,True
+366,Instagram,"Rain+sea = flood everywhere, ppl shifting to safer place.",9.9,76.17,4/9/2024 10:00,Flash Flood,Anil Kumar,208,ml,True
+367,YouTube Comments,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",21.62,72.71,4/17/2024 15:11,High Waves,Ganesh Naik,5,kn,False
+368,Twitter,"Good day fishing 🎣 decent catch, sea calm today.",12.99,74.92,4/10/2024 4:33,None,Vijay Shetty,28,te,False
+369,Twitter,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,21.52,72.71,4/17/2024 14:15,Tsunami,Mohan Lal,305,kn,False
+370,YouTube Comments,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",20.29,86.81,4/29/2024 16:29,High Waves,Rajesh Swain,1,kn,False
+371,Twitter,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,12.77,74.89,4/23/2024 8:35,Tsunami,Rajesh Swain,383,gu,True
+372,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,12.77,74.84,4/27/2024 10:44,Algal Bloom,Vijay Shetty,5,te,True
+373,YouTube Comments,"Good day fishing 🎣 decent catch, sea calm today.",12.81,74.95,4/26/2024 3:54,None,Manoj Das,7,kn,True
+374,Instagram,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,22.21,88.03,4/10/2024 14:55,Tsunami,Deepak Sahu,22,ml,False
+375,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,22.33,87.86,4/23/2024 13:47,Algal Bloom,Ravi Menon,1,en,True
+376,YouTube Comments,"Good day fishing 🎣 decent catch, sea calm today.",13.03,80.29,4/25/2024 3:58,None,Hari Prasad,8,gu,True
+377,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,21.78,72.8,4/14/2024 13:28,Tsunami,Suresh Pillai,0,te,False
+378,Threads,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,12.93,80.27,4/14/2024 4:41,Tsunami,Arjun Kumar,49,bn,True
+379,YouTube Comments,"Sea water entered huts near beach, total mess 🌊",20.45,86.54,4/5/2024 3:19,Storm Surge,Ravi Menon,10,ta,True
+380,Twitter,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",16.92,82.33,4/15/2024 6:32,High Waves,Hari Prasad,458,hi,False
+381,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",12.92,80.43,4/3/2024 23:55,Rip Currents,Shyamal Bose,1,kn,True
+382,Twitter,"Sea water entered huts near beach, total mess 🌊",17.04,82.35,4/3/2024 3:30,Storm Surge,Kamal Hassan,114,ml,True
+383,Facebook,"Rain+sea = flood everywhere, ppl shifting to safer place.",20.27,86.78,4/14/2024 2:15,Flash Flood,Vikram Singh,21,gu,True
+384,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,12.98,74.72,4/13/2024 22:33,Algal Bloom,Ramesh Patel,43,hi,False
+385,Instagram,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",20.19,86.74,4/18/2024 6:45,High Waves,Kamal Hassan,135,bn,True
+386,Instagram,"Vikram Singh: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",12.95,80.16,4/20/2024 23:47,Cyclone,Vikram Singh,147,gu,True
+387,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,21.45,72.73,4/10/2024 23:38,Algal Bloom,Manoj Das,43,gu,False
+388,Threads,"Joseph D’Souza: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",22.34,88.24,4/21/2024 7:10,Cyclone,Joseph D’Souza,30,bn,True
+389,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,19.8,87.29,4/21/2024 7:57,Tsunami,Manoj Das,6,ml,False
+390,Threads,"Sea water entered huts near beach, total mess 🌊",22.3,87.98,4/9/2024 14:51,Storm Surge,Mohan Lal,2,te,True
+391,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,13.16,80.29,4/21/2024 23:20,Algal Bloom,Anil Kumar,17,hi,True
+392,YouTube Comments,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",21.7,72.93,4/28/2024 15:30,Rip Currents,Suresh Pillai,9,gu,True
+393,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",10.1,76.34,4/9/2024 7:46,Rip Currents,Anil Kumar,12,ta,False
+394,Twitter,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,19.91,87.64,4/29/2024 2:41,Tsunami,Vijay Shetty,246,bn,False
+395,YouTube Comments,Water greenish & dead fish floating 🤢 not good for fishing.,13.02,80.11,4/7/2024 12:37,Algal Bloom,Deepak Sahu,5,en,False
+396,Facebook,"Good day fishing 🎣 decent catch, sea calm today.",19.77,87.26,4/12/2024 2:46,None,Ramesh Patel,25,ml,False
+397,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",12.96,80.17,4/30/2024 9:48,Rip Currents,Manoj Das,6,bn,True
+398,Threads,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,19.66,87.38,4/8/2024 21:22,Tsunami,Santosh Yadav,36,ml,True
+399,YouTube Comments,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",19.95,87.54,4/19/2024 20:56,High Waves,Shyamal Bose,9,ml,True
+400,YouTube Comments,"Good day fishing 🎣 decent catch, sea calm today.",17.13,82.37,4/12/2024 4:17,None,Ramesh Patel,9,te,False
+401,Twitter,"Rain+sea = flood everywhere, ppl shifting to safer place.",13.03,74.95,4/17/2024 14:42,Flash Flood,Ravi Menon,470,te,True
+402,Threads,"Sea water entered huts near beach, total mess 🌊",22.39,87.91,4/25/2024 11:59,Storm Surge,Sundar Raj,6,hi,True
+403,Facebook,"Joseph D’Souza: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",21.62,72.78,4/4/2024 13:08,Cyclone,Joseph D’Souza,37,te,False
+404,Instagram,"Ganesh Naik: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",16.81,82.32,4/24/2024 17:04,Cyclone,Ganesh Naik,190,te,True
+405,Facebook,"Good day fishing 🎣 decent catch, sea calm today.",13.1,80.29,4/6/2024 13:40,None,Vijay Shetty,21,en,True
+406,Facebook,Water greenish & dead fish floating 🤢 not good for fishing.,21.72,72.56,4/17/2024 22:56,Algal Bloom,Rajesh Swain,24,te,False
+407,Instagram,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",9.76,76.41,4/30/2024 1:17,Rip Currents,Tapas Ghosh,256,en,True
+408,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,19.94,87.41,4/22/2024 4:12,Tsunami,Arjun Kumar,8,en,True
+409,Twitter,"Rain+sea = flood everywhere, ppl shifting to safer place.",20.23,86.59,4/16/2024 9:59,Flash Flood,Manoj Das,12,bn,True
+410,Threads,"Sea water entered huts near beach, total mess 🌊",16.99,82.26,4/29/2024 18:14,Storm Surge,Deepak Sahu,40,ml,False
+411,Twitter,"Good day fishing 🎣 decent catch, sea calm today.",21.6,72.73,4/30/2024 2:44,None,Santosh Yadav,424,gu,True
+412,Threads,"Manoj Das: cyclone winds r too strong near shore, boats tied 🚤🌊 #stayalert",17.16,82.3,4/30/2024 2:17,Cyclone,Manoj Das,42,ta,True
+413,Threads,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",21.48,72.54,4/22/2024 14:26,Rip Currents,Ramesh Patel,45,kn,False
+414,Twitter,"Rain+sea = flood everywhere, ppl shifting to safer place.",20.17,86.59,4/23/2024 13:21,Flash Flood,Santosh Yadav,287,gu,True
+415,Instagram,"Good day fishing 🎣 decent catch, sea calm today.",19.96,87.35,4/4/2024 10:14,None,Mohan Lal,383,ta,False
+416,Instagram,"Sea water entered huts near beach, total mess 🌊",20.07,86.8,4/20/2024 14:24,Storm Surge,Suresh Pillai,437,bn,True
+417,Instagram,Water greenish & dead fish floating 🤢 not good for fishing.,22.12,87.96,4/18/2024 1:43,Algal Bloom,Kamal Hassan,319,ta,True
+418,Twitter,Water greenish & dead fish floating 🤢 not good for fishing.,21.77,72.73,4/19/2024 7:39,Algal Bloom,Joseph D’Souza,17,kn,True
+419,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,12.95,80.42,4/3/2024 5:43,Tsunami,Vijay Shetty,7,ml,False
+420,Facebook,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",13.08,80.33,4/18/2024 2:31,Rip Currents,Shyamal Bose,22,ta,False
+421,YouTube Comments,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,21.75,72.68,4/27/2024 21:09,Tsunami,Shyamal Bose,9,kn,False
+422,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,21.76,72.78,4/18/2024 19:09,Algal Bloom,Santosh Yadav,10,en,False
+423,Twitter,Water greenish & dead fish floating 🤢 not good for fishing.,20.22,86.82,4/7/2024 19:20,Algal Bloom,Suresh Pillai,462,hi,True
+424,Threads,Water greenish & dead fish floating 🤢 not good for fishing.,10.03,76.28,4/9/2024 16:50,Algal Bloom,Rajesh Swain,9,ml,True
+425,YouTube Comments,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",22.19,88,4/17/2024 6:47,Rip Currents,Ashok Babu,7,bn,True
+426,Facebook,"Rain+sea = flood everywhere, ppl shifting to safer place.",17.13,82.18,4/18/2024 9:32,Flash Flood,Ravi Menon,34,ta,False
+427,Facebook,"High tides hitting since morning 😟 nets all tangled, catch almost zero today.",9.8,76.17,4/11/2024 21:31,High Waves,Ashok Babu,36,bn,True
+428,Facebook,Heard warning on radio abt possible tsunami ⚠️ pray it doesnt hit 🙏,13,74.67,4/10/2024 14:29,Tsunami,Manoj Das,15,bn,True
+429,YouTube Comments,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",19.94,87.44,4/30/2024 19:03,Rip Currents,Suresh Pillai,7,hi,False
+430,Twitter,"Currents pulling hard, 2 boats drifted off!! dangerous season coming up.",9.74,76.44,4/9/2024 9:33,Rip Currents,Deepak Sahu,168,ml,True
+431,Facebook,சூறாவளி எச்சரிக்கை | Hazard: Tsunami,21.46,72.59,4/10/2024 3:01,Tsunami,Tapas Ghosh,35,ta,True
+432,YouTube Comments,માછલી પકડવામાં મુશ્કેલી | Hazard: High Waves,13.21,80.29,4/25/2024 6:52,High Waves,Gopal Das,9,gu,False
+433,Facebook,માછલી પકડવામાં મુશ્કેલી | Hazard: High Waves,20.09,86.78,4/13/2024 5:10,High Waves,Ramesh Patel,40,gu,True
+434,Instagram,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Rip Currents,22.05,88.11,4/25/2024 15:03,Rip Currents,Kamal Hassan,4,kn,True
+435,Twitter,കടൽ today rough | Hazard: Storm Surge,17.1,82.12,4/2/2024 21:50,Storm Surge,Mohan Lal,320,ml,True
+436,Facebook,Cyclone warning received 🚨 | Hazard: Oil Spill,7.92,77.53,4/24/2024 16:27,Oil Spill,Vikram Singh,11,en,False
+437,YouTube Comments,ঘূর্ণিঝড় আসছে | Hazard: Storm Surge,21.73,72.65,4/19/2024 8:48,Storm Surge,Naresh Nair,10,bn,True
+438,Threads,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Flash Flood,22.23,87.87,4/30/2024 1:26,Flash Flood,Ramesh Patel,0,gu,True
+439,Instagram,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: High Waves,15.61,73.82,4/8/2024 1:10,High Waves,Gopal Das,3,bn,False
+440,Twitter,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Cyclone,10.06,76.26,4/26/2024 19:30,Cyclone,Deepak Sahu,4,te,True
+441,Twitter,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Cyclone,20.34,86.5,4/14/2024 11:05,Cyclone,Irfan Ali,464,te,False
+442,Facebook,കടൽ today rough | Hazard: Algal Bloom,21.79,72.94,4/28/2024 14:49,Algal Bloom,Vikram Singh,24,ml,True
+443,Threads,आज मछली पकड़ना मुश्किल है | Hazard: Storm Surge,22.03,88.23,4/8/2024 9:48,Storm Surge,Tapas Ghosh,2,hi,True
+444,Twitter,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Flash Flood,8.18,77.54,4/21/2024 2:07,Flash Flood,Sundar Raj,130,gu,True
+445,Twitter,Sea looks calm today 🎣 | Hazard: Rip Currents,21.53,72.85,4/25/2024 5:55,Rip Currents,Hari Prasad,2,en,False
+446,Instagram,மீன் பிடிக்க முடியவில்லை | Hazard: Rip Currents,21.82,72.67,4/26/2024 8:51,Rip Currents,Tapas Ghosh,340,ta,False
+447,Instagram,ప్రళయం వస్తోందని వార్త | Hazard: Erosion,15.64,74.01,4/13/2024 22:16,Erosion,Mohan Lal,1,te,False
+448,Instagram,High waves messing up nets | Hazard: Storm Surge,13.05,80.2,4/9/2024 20:40,Storm Surge,Suresh Pillai,1,en,False
+449,Instagram,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Rip Currents,12.8,74.89,4/1/2024 13:59,Rip Currents,Arjun Kumar,4,te,True
+450,Instagram,കടൽ today rough | Safe fishing day,12.95,80.42,4/16/2024 17:54,None,Vikram Singh,0,ml,False
+451,Facebook,Cyclone warning received 🚨 | Hazard: Cyclone,21.58,72.56,4/19/2024 4:10,Cyclone,Santosh Yadav,44,en,True
+452,Facebook,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Algal Bloom,16.94,82.09,4/2/2024 4:02,Algal Bloom,Arjun Kumar,45,kn,True
+453,Twitter,കടൽ today rough | Hazard: Rip Currents,8.09,77.54,4/26/2024 12:14,Rip Currents,Hari Prasad,312,ml,True
+454,Twitter,High waves messing up nets | Hazard: Storm Surge,17.18,82.25,4/13/2024 1:18,Storm Surge,Mohan Lal,3,en,False
+455,Facebook,Sea looks calm today 🎣 | Hazard: Algal Bloom,19.7,87.56,4/5/2024 5:43,Algal Bloom,Shyamal Bose,11,en,True
+456,YouTube Comments,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Erosion,9.94,76.33,4/30/2024 2:37,Erosion,Irfan Ali,4,ml,True
+457,Facebook,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Flash Flood,13.24,80.14,4/26/2024 3:29,Flash Flood,Ramesh Patel,22,gu,False
+458,Instagram,சூறாவளி எச்சரிக்கை | Hazard: Algal Bloom,13.21,80.4,4/5/2024 1:49,Algal Bloom,Kamal Hassan,3,ta,True
+459,YouTube Comments,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: Cyclone,22.4,88.12,4/9/2024 7:53,Cyclone,Anil Kumar,6,bn,True
+460,Instagram,சூறாவளி எச்சரிக்கை | Hazard: Storm Surge,21.64,72.71,4/23/2024 15:46,Storm Surge,Gopal Das,314,ta,False
+461,Instagram,आज मछली पकड़ना मुश्किल है | Hazard: Flash Flood,16.94,82.41,4/12/2024 8:49,Flash Flood,Gopal Das,4,hi,True
+462,Instagram,High waves messing up nets | Hazard: Storm Surge,8.06,77.45,4/10/2024 6:23,Storm Surge,Anil Kumar,0,en,True
+463,Facebook,சூறாவளி எச்சரிக்கை | Hazard: Flash Flood,7.91,77.37,4/21/2024 4:09,Flash Flood,Kamal Hassan,17,ta,True
+464,Instagram,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Safe fishing day,8.19,77.36,4/7/2024 0:02,None,Suresh Pillai,408,te,False
+465,Twitter,चक्रवात आ रहा है सावधान रहो | Safe fishing day,15.46,73.74,4/9/2024 8:00,None,Prakash Jha,245,hi,True
+466,Twitter,சூறாவளி எச்சரிக்கை | Hazard: Oil Spill,12.73,75.05,4/4/2024 14:46,Oil Spill,Ramesh Patel,5,ta,True
+467,Facebook,കടൽ today rough | Hazard: Erosion,12.71,74.89,4/5/2024 0:36,Erosion,Ganesh Naik,32,ml,False
+468,Threads,ચક્રવાતની ચેતવણી | Hazard: Rip Currents,20.26,86.59,4/4/2024 9:51,Rip Currents,Vijay Shetty,35,gu,True
+469,Threads,समंदर बहुत तेज़ है 🌊 | Hazard: Cyclone,13.09,74.75,4/28/2024 23:34,Cyclone,Manoj Das,9,hi,False
+470,Instagram,चक्रवात आ रहा है सावधान रहो | Hazard: Tsunami,20,87.48,4/9/2024 6:58,Tsunami,Prakash Jha,466,hi,True
+471,Instagram,High waves messing up nets | Hazard: Tsunami,17.18,82.13,4/28/2024 20:41,Tsunami,Mohan Lal,4,en,True
+472,Facebook,ঘূর্ণিঝড় আসছে | Hazard: Flash Flood,22.14,88.16,4/12/2024 4:59,Flash Flood,Vijay Shetty,37,bn,True
+473,Facebook,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Storm Surge,7.96,77.69,4/27/2024 11:20,Storm Surge,Ashok Babu,7,kn,False
+474,Instagram,മത്സ്യബന്ധനം stop ചെയ്യണം | Safe fishing day,12.77,74.66,4/17/2024 16:15,None,Tapas Ghosh,76,ml,False
+475,Facebook,आज मछली पकड़ना मुश्किल है | Hazard: Rip Currents,21.5,72.9,4/13/2024 22:51,Rip Currents,Irfan Ali,20,hi,True
+476,Instagram,ঘূর্ণিঝড় আসছে | Hazard: Oil Spill,15.65,73.69,4/14/2024 9:36,Oil Spill,Santosh Yadav,476,bn,False
+477,Instagram,आज मछली पकड़ना मुश्किल है | Hazard: Rip Currents,8.14,77.57,4/11/2024 15:18,Rip Currents,Vikram Singh,344,hi,False
+478,Instagram,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Rip Currents,21.59,72.79,4/15/2024 9:19,Rip Currents,Anil Kumar,5,kn,False
+479,Instagram,समंदर बहुत तेज़ है 🌊 | Hazard: Oil Spill,8.23,77.45,4/19/2024 0:05,Oil Spill,Shyamal Bose,5,hi,False
+480,YouTube Comments,சூறாவளி எச்சரிக்கை | Safe fishing day,22.03,88.07,4/21/2024 13:08,None,Ravi Menon,6,ta,True
+481,Instagram,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Safe fishing day,15.55,73.7,4/27/2024 1:11,None,Shankar Iyer,5,te,False
+482,Instagram,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Storm Surge,9.95,76.24,4/23/2024 18:44,Storm Surge,Mohan Lal,0,kn,True
+483,Instagram,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Tsunami,13.24,80.19,4/23/2024 19:47,Tsunami,Manoj Das,166,gu,True
+484,Twitter,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Algal Bloom,12.77,74.78,4/3/2024 9:12,Algal Bloom,Tapas Ghosh,3,te,True
+485,Instagram,ચક્રવાતની ચેતવણી | Safe fishing day,12.99,80.29,4/1/2024 16:31,None,Irfan Ali,362,gu,False
+486,Instagram,സുനാമി ഭയം ഉണ്ട് | Hazard: Erosion,20.01,87.37,4/17/2024 7:38,Erosion,Sundar Raj,309,ml,True
+487,Instagram,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Flash Flood,12.74,74.94,4/16/2024 14:46,Flash Flood,Arjun Kumar,1,te,True
+488,Twitter,માછલી પકડવામાં મુશ્કેલી | Hazard: Algal Bloom,8.15,77.67,4/24/2024 8:49,Algal Bloom,Kamal Hassan,2,gu,False
+489,Threads,Cyclone warning received 🚨 | Hazard: Erosion,19.87,87.63,4/18/2024 7:24,Erosion,Vijay Shetty,29,en,True
+490,Facebook,Sea looks calm today 🎣 | Hazard: Storm Surge,12.93,75.02,4/18/2024 20:54,Storm Surge,Hari Prasad,29,en,True
+491,YouTube Comments,ప్రళయం వస్తోందని వార్త | Hazard: Storm Surge,15.55,73.81,4/28/2024 16:59,Storm Surge,Suresh Pillai,1,te,False
+492,Instagram,மீன் பிடிக்க முடியவில்லை | Hazard: Rip Currents,22.35,88.17,4/2/2024 3:19,Rip Currents,Sundar Raj,141,ta,True
+493,YouTube Comments,ঘূর্ণিঝড় আসছে | Hazard: Erosion,20.19,86.56,4/19/2024 23:27,Erosion,Rajesh Swain,4,bn,True
+494,Twitter,மீன் பிடிக்க முடியவில்லை | Safe fishing day,21.66,72.69,4/27/2024 15:21,None,Shankar Iyer,0,ta,True
+495,Instagram,માછલી પકડવામાં મુશ્કેલી | Hazard: High Waves,13.21,80.14,4/15/2024 13:32,High Waves,Shankar Iyer,3,gu,False
+496,Twitter,ప్రళయం వస్తోందని వార్త | Hazard: Oil Spill,21.61,72.65,4/22/2024 7:53,Oil Spill,Rajesh Swain,3,te,True
+497,Instagram,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: High Waves,16.95,82.05,4/27/2024 7:37,High Waves,Ashok Babu,184,ml,True
+498,Instagram,आज मछली पकड़ना मुश्किल है | Hazard: Oil Spill,15.46,73.97,4/24/2024 15:13,Oil Spill,Mohan Lal,189,hi,False
+499,YouTube Comments,आज मछली पकड़ना मुश्किल है | Hazard: Oil Spill,13,74.99,4/28/2024 21:52,Oil Spill,Ramesh Patel,8,hi,True
+500,Threads,Cyclone warning received 🚨 | Hazard: Storm Surge,8.26,77.68,4/28/2024 1:17,Storm Surge,Ravi Menon,32,en,False
+501,Facebook,चक्रवात आ रहा है सावधान रहो | Hazard: Erosion,15.41,73.96,4/24/2024 14:09,Erosion,Suresh Pillai,39,hi,True
+502,Twitter,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Cyclone,15.57,73.92,4/20/2024 9:16,Cyclone,Rajesh Swain,3,kn,True
+503,Threads,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Tsunami,13.14,80.43,4/14/2024 7:52,Tsunami,Naresh Nair,6,kn,True
+504,Twitter,चक्रवात आ रहा है सावधान रहो | Safe fishing day,20.2,86.68,4/3/2024 18:20,None,Ramesh Patel,4,hi,False
+505,Threads,Cyclone warning received 🚨 | Hazard: Rip Currents,21.78,72.78,4/6/2024 14:43,Rip Currents,Anil Kumar,14,en,False
+506,Twitter,আজ সমুদ্র খুব ভয়ানক | Hazard: High Waves,20.29,86.55,4/14/2024 4:08,High Waves,Manoj Das,4,bn,True
+507,Instagram,சூறாவளி எச்சரிக்கை | Hazard: Erosion,17.07,82.15,4/8/2024 23:46,Erosion,Vikram Singh,1,ta,True
+508,Instagram,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Erosion,22.1,87.95,4/18/2024 1:54,Erosion,Prakash Jha,0,gu,True
+509,YouTube Comments,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Algal Bloom,12.82,74.96,4/1/2024 12:36,Algal Bloom,Mohan Lal,10,te,False
+510,Twitter,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Oil Spill,8.18,77.74,4/26/2024 9:54,Oil Spill,Kamal Hassan,1,kn,True
+511,Twitter,માછલી પકડવામાં મુશ્કેલી | Hazard: Oil Spill,19.7,87.33,4/24/2024 14:12,Oil Spill,Suresh Pillai,5,gu,True
+512,YouTube Comments,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Oil Spill,20.27,86.57,4/27/2024 18:41,Oil Spill,Shyamal Bose,1,kn,False
+513,Instagram,Cyclone warning received 🚨 | Hazard: Tsunami,22.34,87.97,4/27/2024 12:22,Tsunami,Shyamal Bose,1,en,True
+514,Instagram,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Erosion,13.17,80.12,4/5/2024 9:57,Erosion,Ganesh Naik,4,ml,True
+515,Facebook,समंदर बहुत तेज़ है 🌊 | Hazard: High Waves,10.02,76.1,4/1/2024 6:26,High Waves,Irfan Ali,42,hi,False
+516,YouTube Comments,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Flash Flood,15.56,73.75,4/3/2024 16:41,Flash Flood,Suresh Pillai,6,gu,True
+517,Threads,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Storm Surge,21.73,72.85,4/28/2024 3:45,Storm Surge,Mohan Lal,5,kn,True
+518,Instagram,സുനാമി ഭയം ഉണ്ട് | Hazard: Erosion,15.59,73.91,4/6/2024 1:51,Erosion,Ashok Babu,4,ml,True
+519,Threads,High waves messing up nets | Hazard: Rip Currents,15.52,73.68,4/5/2024 23:28,Rip Currents,Ashok Babu,39,en,False
+520,Twitter,માછલી પકડવામાં મુશ્કેલી | Hazard: Erosion,21.47,72.71,4/20/2024 3:42,Erosion,Suresh Pillai,152,gu,True
+521,Facebook,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Flash Flood,9.79,76.08,4/23/2024 6:00,Flash Flood,Shyamal Bose,6,te,True
+522,Twitter,கடல் அலைகள் அதிகம் | Hazard: Storm Surge,16.97,82.26,4/10/2024 0:05,Storm Surge,Vijay Shetty,2,ta,False
+523,Instagram,चक्रवात आ रहा है सावधान रहो | Hazard: High Waves,7.96,77.69,4/5/2024 13:54,High Waves,Anil Kumar,286,hi,True
+524,Instagram,আজ সমুদ্র খুব ভয়ানক | Hazard: Storm Surge,13.02,74.91,4/17/2024 10:45,Storm Surge,Ashok Babu,224,bn,False
+525,Facebook,High waves messing up nets | Hazard: Tsunami,15.39,73.96,4/17/2024 15:00,Tsunami,Prakash Jha,2,en,True
+526,Threads,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Storm Surge,9.89,76.43,4/1/2024 5:51,Storm Surge,Ravi Menon,1,te,True
+527,Facebook,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: High Waves,8.23,77.41,4/23/2024 5:51,High Waves,Gopal Das,22,ml,True
+528,Twitter,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Safe fishing day,10,76.35,4/18/2024 21:45,None,Naresh Nair,494,kn,False
+529,Facebook,സുനാമി ഭയം ഉണ്ട് | Hazard: Rip Currents,17,82.33,4/15/2024 7:01,Rip Currents,Arjun Kumar,24,ml,False
+530,Twitter,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Erosion,10.09,76.39,4/11/2024 14:03,Erosion,Ashok Babu,3,kn,False
+531,Instagram,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Erosion,16.85,82.34,4/27/2024 0:28,Erosion,Naresh Nair,5,ml,False
+532,Threads,માછલી પકડવામાં મુશ્કેલી | Hazard: Cyclone,9.9,76.19,4/20/2024 10:28,Cyclone,Sundar Raj,9,gu,True
+533,Instagram,ঘূর্ণিঝড় আসছে | Hazard: Flash Flood,16.96,82.07,4/22/2024 8:05,Flash Flood,Kamal Hassan,4,bn,False
+534,Twitter,High waves messing up nets | Hazard: Tsunami,20.47,86.88,4/15/2024 23:54,Tsunami,Sundar Raj,0,en,True
+535,Instagram,আজ সমুদ্র খুব ভয়ানক | Hazard: Storm Surge,9.97,76.29,4/20/2024 18:27,Storm Surge,Hari Prasad,2,bn,True
+536,Threads,समंदर बहुत तेज़ है 🌊 | Hazard: Erosion,19.98,87.57,4/14/2024 23:23,Erosion,Vikram Singh,5,hi,True
+537,Threads,சூறாவளி எச்சரிக்கை | Hazard: Cyclone,8.22,77.61,4/25/2024 13:24,Cyclone,Ganesh Naik,48,ta,False
+538,Twitter,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Tsunami,16.98,82.25,4/17/2024 4:29,Tsunami,Suresh Pillai,426,ml,True
+539,Instagram,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Rip Currents,22.06,88.04,4/19/2024 5:05,Rip Currents,Hari Prasad,0,te,True
+540,Twitter,കടൽ today rough | Hazard: Flash Flood,21.51,72.65,4/22/2024 11:53,Flash Flood,Mohan Lal,395,ml,False
+541,Threads,சூறாவளி எச்சரிக்கை | Safe fishing day,21.72,72.8,4/9/2024 20:58,None,Suresh Pillai,12,ta,True
+542,Threads,માછલી પકડવામાં મુશ્કેલી | Hazard: Flash Flood,19.98,87.56,4/8/2024 21:19,Flash Flood,Shankar Iyer,18,gu,True
+543,Facebook,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Rip Currents,19.88,87.39,4/24/2024 17:36,Rip Currents,Joseph D’Souza,9,te,False
+544,Instagram,சூறாவளி எச்சரிக்கை | Hazard: High Waves,7.95,77.63,4/8/2024 9:48,High Waves,Hari Prasad,185,ta,True
+545,YouTube Comments,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Safe fishing day,17.15,82.19,4/15/2024 10:51,None,Ashok Babu,9,kn,True
+546,Threads,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: High Waves,15.68,73.75,4/18/2024 10:00,High Waves,Sundar Raj,14,kn,True
+547,Twitter,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Cyclone,20.44,86.82,4/19/2024 7:51,Cyclone,Arjun Kumar,2,gu,True
+548,Instagram,समंदर बहुत तेज़ है 🌊 | Hazard: Tsunami,15.56,73.78,4/28/2024 4:20,Tsunami,Sundar Raj,200,hi,False
+549,Threads,சூறாவளி எச்சரிக்கை | Hazard: Algal Bloom,19.65,87.45,4/18/2024 9:20,Algal Bloom,Shankar Iyer,6,ta,True
+550,Twitter,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Algal Bloom,9.74,76.14,4/5/2024 1:02,Algal Bloom,Tapas Ghosh,5,ml,True
+551,Twitter,மீன் பிடிக்க முடியவில்லை | Hazard: Cyclone,12.85,74.7,4/14/2024 4:35,Cyclone,Sundar Raj,176,ta,False
+552,Facebook,चक्रवात आ रहा है सावधान रहो | Safe fishing day,19.76,87.59,4/11/2024 14:41,None,Prakash Jha,24,hi,True
+553,Twitter,માછલી પકડવામાં મુશ્કેલી | Hazard: Flash Flood,19.76,87.64,4/19/2024 6:04,Flash Flood,Mohan Lal,2,gu,True
+554,Twitter,Sea looks calm today 🎣 | Safe fishing day,22.32,87.98,4/10/2024 7:06,None,Deepak Sahu,1,en,False
+555,Instagram,ప్రళయం వస్తోందని వార్త | Safe fishing day,22.36,88.17,4/1/2024 22:15,None,Ramesh Patel,1,te,True
+556,Twitter,માછલી પકડવામાં મુશ્કેલી | Hazard: Storm Surge,12.92,80.41,4/4/2024 3:29,Storm Surge,Ganesh Naik,457,gu,True
+557,YouTube Comments,चक्रवात आ रहा है सावधान रहो | Hazard: Flash Flood,7.9,77.45,4/23/2024 13:36,Flash Flood,Joseph D’Souza,7,hi,True
+558,Instagram,ప్రళయం వస్తోందని వార్త | Safe fishing day,20.28,86.71,4/20/2024 7:48,None,Vikram Singh,382,te,False
+559,Instagram,Sea looks calm today 🎣 | Hazard: Rip Currents,15.4,73.91,4/2/2024 13:59,Rip Currents,Manoj Das,41,en,True
+560,Facebook,കടൽ today rough | Hazard: Flash Flood,17.03,82.23,4/17/2024 4:01,Flash Flood,Deepak Sahu,10,ml,True
+561,YouTube Comments,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Storm Surge,19.89,87.38,4/17/2024 12:31,Storm Surge,Shyamal Bose,0,gu,False
+562,Threads,ప్రళయం వస్తోందని వార్త | Hazard: Storm Surge,22.13,88.22,4/5/2024 7:19,Storm Surge,Mohan Lal,34,te,True
+563,Instagram,சூறாவளி எச்சரிக்கை | Safe fishing day,13.01,80.08,4/25/2024 0:04,None,Rajesh Swain,383,ta,False
+564,Instagram,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Rip Currents,12.75,74.97,4/22/2024 1:03,Rip Currents,Ashok Babu,81,kn,True
+565,Threads,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Storm Surge,19.61,87.55,4/8/2024 23:44,Storm Surge,Tapas Ghosh,19,gu,True
+566,YouTube Comments,மீன் பிடிக்க முடியவில்லை | Hazard: High Waves,15.47,73.97,4/10/2024 5:46,High Waves,Prakash Jha,10,ta,True
+567,Twitter,আজ সমুদ্র খুব ভয়ানক | Hazard: Storm Surge,7.9,77.51,4/18/2024 18:14,Storm Surge,Shankar Iyer,3,bn,False
+568,Facebook,चक्रवात आ रहा है सावधान रहो | Hazard: Cyclone,19.83,87.39,4/21/2024 12:16,Cyclone,Naresh Nair,43,hi,False
+569,Twitter,ঘূর্ণিঝড় আসছে | Hazard: Cyclone,13.09,74.98,4/2/2024 18:47,Cyclone,Kamal Hassan,468,bn,False
+570,Facebook,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Oil Spill,21.66,72.64,4/18/2024 22:37,Oil Spill,Deepak Sahu,30,kn,False
+571,Facebook,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Algal Bloom,10.04,76.18,4/3/2024 12:00,Algal Bloom,Santosh Yadav,16,kn,True
+572,Facebook,માછલી પકડવામાં મુશ્કેલી | Hazard: Tsunami,20.08,86.51,4/29/2024 19:10,Tsunami,Suresh Pillai,8,gu,False
+573,Twitter,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Safe fishing day,22.17,88.17,4/29/2024 5:36,None,Ganesh Naik,1,kn,True
+574,Instagram,சூறாவளி எச்சரிக்கை | Hazard: Storm Surge,9.86,76.38,4/17/2024 20:38,Storm Surge,Ramesh Patel,2,ta,True
+575,Twitter,আজ সমুদ্র খুব ভয়ানক | Hazard: Flash Flood,21.59,72.57,4/22/2024 4:47,Flash Flood,Shyamal Bose,475,bn,True
+576,Threads,High waves messing up nets | Hazard: Cyclone,13.09,74.79,4/27/2024 14:37,Cyclone,Arjun Kumar,0,en,False
+577,Threads,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Oil Spill,22.18,88.15,4/10/2024 2:11,Oil Spill,Rajesh Swain,34,kn,True
+578,Twitter,ચક્રવાતની ચેતવણી | Hazard: Cyclone,15.43,73.99,4/20/2024 19:12,Cyclone,Vikram Singh,348,gu,True
+579,Facebook,ঘূর্ণিঝড় আসছে | Hazard: Flash Flood,12.89,80.18,4/6/2024 6:24,Flash Flood,Irfan Ali,18,bn,False
+580,Twitter,માછલી પકડવામાં મુશ્કેલી | Hazard: Erosion,16.91,82.14,4/24/2024 18:47,Erosion,Prakash Jha,41,gu,True
+581,Twitter,மீன் பிடிக்க முடியவில்லை | Hazard: Algal Bloom,22.16,87.89,4/7/2024 6:06,Algal Bloom,Irfan Ali,1,ta,True
+582,Twitter,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: Erosion,22.06,87.96,4/11/2024 11:00,Erosion,Arjun Kumar,169,bn,False
+583,Instagram,समंदर बहुत तेज़ है 🌊 | Hazard: Flash Flood,12.93,80.1,4/13/2024 17:25,Flash Flood,Arjun Kumar,482,hi,True
+584,Instagram,માછલી પકડવામાં મુશ્કેલી | Hazard: Cyclone,22.33,88.03,4/29/2024 20:12,Cyclone,Gopal Das,4,gu,True
+585,Threads,মাছ ধরা বন্ধ করতে হয়েছে | Safe fishing day,15.41,73.92,4/15/2024 16:47,None,Ravi Menon,27,bn,True
+586,Instagram,ચક્રવાતની ચેતવણી | Safe fishing day,20.25,86.51,4/22/2024 17:43,None,Ashok Babu,0,gu,True
+587,Instagram,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Cyclone,13.21,80.11,4/6/2024 13:49,Cyclone,Ashok Babu,44,kn,False
+588,YouTube Comments,சூறாவளி எச்சரிக்கை | Hazard: Cyclone,19.82,87.4,4/26/2024 22:42,Cyclone,Ravi Menon,1,ta,True
+589,Threads,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Algal Bloom,21.46,72.75,4/6/2024 8:25,Algal Bloom,Vijay Shetty,48,te,True
+590,Twitter,Sea looks calm today 🎣 | Hazard: Erosion,19.72,87.6,4/24/2024 2:34,Erosion,Ramesh Patel,4,en,False
+591,Threads,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: High Waves,17.03,82.16,4/1/2024 6:00,High Waves,Ramesh Patel,14,te,True
+592,Twitter,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Safe fishing day,19.62,87.47,4/12/2024 18:31,None,Ramesh Patel,435,te,True
+593,Instagram,மீன் பிடிக்க முடியவில்லை | Hazard: Cyclone,15.37,73.86,4/26/2024 4:22,Cyclone,Anil Kumar,334,ta,False
+594,Instagram,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Storm Surge,17.04,82.42,4/22/2024 12:39,Storm Surge,Ramesh Patel,1,kn,True
+595,Twitter,കടൽ today rough | Hazard: Algal Bloom,12.89,80.11,4/26/2024 16:41,Algal Bloom,Ganesh Naik,299,ml,True
+596,Twitter,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Rip Currents,12.84,75,4/28/2024 10:52,Rip Currents,Shyamal Bose,303,kn,True
+597,YouTube Comments,ప్రళయం వస్తోందని వార్త | Hazard: High Waves,13.17,80.33,4/23/2024 5:46,High Waves,Vikram Singh,9,te,False
+598,Twitter,மீன் பிடிக்க முடியவில்லை | Hazard: Algal Bloom,7.99,77.42,4/5/2024 6:29,Algal Bloom,Vikram Singh,357,ta,True
+599,Twitter,സുനാമി ഭയം ഉണ്ട് | Hazard: Rip Currents,12.73,75.04,4/19/2024 10:14,Rip Currents,Suresh Pillai,0,ml,True
+600,Twitter,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: High Waves,9.88,76.34,4/16/2024 15:29,High Waves,Prakash Jha,254,kn,False
+601,Twitter,സുനാമി ഭയം ഉണ്ട് | Hazard: Cyclone,13.11,80.4,4/18/2024 13:33,Cyclone,Gopal Das,3,ml,True
+602,Threads,আজ সমুদ্র খুব ভয়ানক | Hazard: High Waves,13.22,80.24,4/3/2024 13:19,High Waves,Shyamal Bose,49,bn,False
+603,Twitter,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: Algal Bloom,16.81,82.23,4/23/2024 10:30,Algal Bloom,Joseph D’Souza,0,bn,True
+604,Instagram,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: Storm Surge,9.77,76.38,4/11/2024 8:24,Storm Surge,Shankar Iyer,3,bn,True
+605,YouTube Comments,കടൽ today rough | Hazard: Algal Bloom,9.93,76.26,4/11/2024 15:44,Algal Bloom,Ashok Babu,7,ml,True
+606,Twitter,ప్రళయం వస్తోందని వార్త | Hazard: Cyclone,22.19,88.24,4/12/2024 23:05,Cyclone,Irfan Ali,1,te,False
+607,Twitter,समंदर बहुत तेज़ है 🌊 | Hazard: Flash Flood,20.38,86.71,4/23/2024 13:52,Flash Flood,Vikram Singh,317,hi,False
+608,Twitter,আজ সমুদ্র খুব ভয়ানক | Hazard: Rip Currents,7.91,77.45,4/30/2024 22:17,Rip Currents,Tapas Ghosh,406,bn,False
+609,YouTube Comments,Sea looks calm today 🎣 | Hazard: Oil Spill,19.84,87.31,4/4/2024 7:41,Oil Spill,Manoj Das,2,en,False
+610,Twitter,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: Tsunami,13.1,74.66,4/17/2024 20:29,Tsunami,Vijay Shetty,3,bn,True
+611,Facebook,Sea looks calm today 🎣 | Safe fishing day,19.94,87.31,4/15/2024 3:28,None,Rajesh Swain,11,en,False
+612,Instagram,கடல் அலைகள் அதிகம் | Safe fishing day,22.35,88.25,4/13/2024 19:06,None,Rajesh Swain,2,ta,True
+613,YouTube Comments,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Erosion,20.17,86.87,4/19/2024 7:05,Erosion,Santosh Yadav,7,gu,True
+614,YouTube Comments,Sea looks calm today 🎣 | Hazard: Rip Currents,21.82,72.77,4/29/2024 2:33,Rip Currents,Arjun Kumar,10,en,True
+615,YouTube Comments,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Erosion,8.05,77.41,4/20/2024 18:55,Erosion,Joseph D’Souza,8,te,False
+616,Instagram,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Oil Spill,9.96,76.43,4/9/2024 20:16,Oil Spill,Vikram Singh,3,kn,True
+617,Threads,Sea looks calm today 🎣 | Hazard: Tsunami,13.21,80.08,4/22/2024 15:48,Tsunami,Shyamal Bose,41,en,True
+618,YouTube Comments,கடல் அலைகள் அதிகம் | Safe fishing day,19.85,87.42,4/11/2024 18:58,None,Vikram Singh,4,ta,False
+619,Twitter,High waves messing up nets | Hazard: Tsunami,17.1,82.13,4/16/2024 6:44,Tsunami,Prakash Jha,2,en,True
+620,Twitter,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Safe fishing day,16.99,82.23,4/8/2024 20:33,None,Ramesh Patel,0,kn,True
+621,Twitter,கடல் அலைகள் அதிகம் | Safe fishing day,8.23,77.66,4/30/2024 2:54,None,Ashok Babu,403,ta,False
+622,YouTube Comments,சூறாவளி எச்சரிக்கை | Hazard: High Waves,17.07,82.44,4/2/2024 10:47,High Waves,Vikram Singh,5,ta,True
+623,Twitter,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Flash Flood,9.95,76.15,4/1/2024 21:46,Flash Flood,Joseph D’Souza,500,te,True
+624,Facebook,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Flash Flood,8.27,77.55,4/12/2024 8:48,Flash Flood,Santosh Yadav,0,te,True
+625,YouTube Comments,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Flash Flood,20.24,86.5,4/10/2024 15:41,Flash Flood,Arjun Kumar,1,te,True
+626,Twitter,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Oil Spill,22.31,88.18,4/10/2024 5:14,Oil Spill,Rajesh Swain,242,ml,False
+627,Threads,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Flash Flood,13.08,80.25,4/13/2024 14:17,Flash Flood,Suresh Pillai,25,gu,True
+628,YouTube Comments,கடல் அலைகள் அதிகம் | Hazard: Erosion,15.54,73.88,4/8/2024 18:12,Erosion,Shankar Iyer,10,ta,True
+629,Twitter,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Algal Bloom,12.98,80.42,4/30/2024 8:39,Algal Bloom,Santosh Yadav,464,te,False
+630,Facebook,आज मछली पकड़ना मुश्किल है | Hazard: Erosion,12.92,74.7,4/10/2024 9:12,Erosion,Anil Kumar,30,hi,True
+631,Twitter,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: Algal Bloom,17.09,82.19,4/13/2024 10:13,Algal Bloom,Irfan Ali,1,bn,True
+632,Twitter,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: High Waves,9.85,76.12,4/15/2024 5:58,High Waves,Deepak Sahu,3,kn,False
+633,Threads,ঘূর্ণিঝড় আসছে | Hazard: Flash Flood,16.83,82.21,4/3/2024 2:14,Flash Flood,Gopal Das,47,bn,True
+634,Instagram,ચક્રવાતની ચેતવણી | Hazard: Flash Flood,22.37,88.25,4/20/2024 8:26,Flash Flood,Manoj Das,430,gu,True
+635,Twitter,আজ সমুদ্র খুব ভয়ানক | Hazard: Rip Currents,22.3,88.16,4/10/2024 20:30,Rip Currents,Anil Kumar,2,bn,True
+636,Instagram,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Oil Spill,20.09,86.82,4/9/2024 11:43,Oil Spill,Sundar Raj,5,gu,False
+637,Threads,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Cyclone,15.67,73.93,4/12/2024 6:12,Cyclone,Ashok Babu,5,ml,True
+638,Twitter,ચક્રવાતની ચેતવણી | Hazard: High Waves,21.78,72.6,4/26/2024 23:56,High Waves,Manoj Das,101,gu,True
+639,Threads,சூறாவளி எச்சரிக்கை | Hazard: Erosion,22.41,88,4/13/2024 13:39,Erosion,Tapas Ghosh,14,ta,False
+640,Facebook,Cyclone warning received 🚨 | Hazard: Flash Flood,13.15,80.28,4/21/2024 3:24,Flash Flood,Joseph D’Souza,41,en,True
+641,Facebook,കടൽ today rough | Hazard: Tsunami,7.98,77.69,4/8/2024 9:15,Tsunami,Anil Kumar,36,ml,False
+642,Twitter,ચક્રવાતની ચેતવણી | Hazard: High Waves,8.1,77.6,4/27/2024 10:23,High Waves,Gopal Das,3,gu,True
+643,Threads,High waves messing up nets | Hazard: Erosion,22.35,88.08,4/2/2024 4:56,Erosion,Arjun Kumar,40,en,True
+644,YouTube Comments,மீன் பிடிக்க முடியவில்லை | Hazard: Storm Surge,20.4,86.76,4/4/2024 1:17,Storm Surge,Deepak Sahu,0,ta,True
+645,Threads,சூறாவளி எச்சரிக்கை | Hazard: High Waves,8.25,77.37,4/22/2024 21:49,High Waves,Santosh Yadav,47,ta,False
+646,Threads,आज मछली पकड़ना मुश्किल है | Safe fishing day,21.72,72.61,4/11/2024 0:30,None,Santosh Yadav,10,hi,False
+647,Instagram,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: High Waves,20.33,86.55,4/29/2024 9:17,High Waves,Ramesh Patel,276,kn,False
+648,Twitter,கடல் அலைகள் அதிகம் | Safe fishing day,13.12,80.14,4/3/2024 11:41,None,Anil Kumar,1,ta,False
+649,Threads,समंदर बहुत तेज़ है 🌊 | Hazard: Rip Currents,7.96,77.49,4/14/2024 4:15,Rip Currents,Prakash Jha,41,hi,True
+650,Instagram,चक्रवात आ रहा है सावधान रहो | Hazard: Storm Surge,19.74,87.55,4/24/2024 14:58,Storm Surge,Arjun Kumar,5,hi,False
+651,Facebook,High waves messing up nets | Hazard: Flash Flood,8.21,77.53,4/22/2024 19:11,Flash Flood,Rajesh Swain,24,en,True
+652,Twitter,மீன் பிடிக்க முடியவில்லை | Hazard: Rip Currents,9.8,76.09,4/9/2024 8:43,Rip Currents,Naresh Nair,115,ta,True
+653,Facebook,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Erosion,12.9,80.42,4/10/2024 0:18,Erosion,Ashok Babu,24,kn,True
+654,Twitter,சூறாவளி எச்சரிக்கை | Hazard: High Waves,17.04,82.21,4/26/2024 8:09,High Waves,Irfan Ali,5,ta,False
+655,Threads,சூறாவளி எச்சரிக்கை | Hazard: Storm Surge,19.66,87.37,4/13/2024 23:30,Storm Surge,Gopal Das,41,ta,True
+656,Instagram,ঘূর্ণিঝড় আসছে | Hazard: Erosion,13.06,74.78,4/24/2024 15:44,Erosion,Rajesh Swain,76,bn,True
+657,Twitter,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Rip Currents,20.01,87.44,4/10/2024 18:58,Rip Currents,Prakash Jha,437,ml,False
+658,Twitter,ప్రళయం వస్తోందని వార్త | Hazard: Tsunami,22.31,87.92,4/23/2024 20:04,Tsunami,Mohan Lal,131,te,True
+659,Instagram,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Rip Currents,19.99,87.61,4/25/2024 18:30,Rip Currents,Ramesh Patel,0,kn,True
+660,YouTube Comments,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Oil Spill,13.02,74.9,4/26/2024 21:35,Oil Spill,Shankar Iyer,10,kn,False
+661,Facebook,Sea looks calm today 🎣 | Hazard: Algal Bloom,12.75,74.66,4/22/2024 5:14,Algal Bloom,Irfan Ali,34,en,True
+662,Facebook,கடல் அலைகள் அதிகம் | Hazard: Erosion,13.09,74.97,4/30/2024 0:29,Erosion,Suresh Pillai,4,ta,True
+663,Instagram,ચક્રવાતની ચેતવણી | Hazard: Cyclone,22.11,88.23,4/15/2024 11:31,Cyclone,Anil Kumar,370,gu,True
+664,Instagram,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Algal Bloom,12.91,80.38,4/3/2024 21:21,Algal Bloom,Santosh Yadav,47,kn,True
+665,Instagram,Cyclone warning received 🚨 | Hazard: Flash Flood,20.24,86.6,4/1/2024 15:51,Flash Flood,Shankar Iyer,0,en,False
+666,Facebook,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Rip Currents,21.44,72.55,4/12/2024 5:21,Rip Currents,Manoj Das,22,kn,True
+667,Threads,आज मछली पकड़ना मुश्किल है | Safe fishing day,9.92,76.2,4/30/2024 16:22,None,Manoj Das,0,hi,True
+668,Threads,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Erosion,19.75,87.29,4/29/2024 20:46,Erosion,Ganesh Naik,37,kn,False
+669,Twitter,चक्रवात आ रहा है सावधान रहो | Hazard: Flash Flood,12.82,75,4/6/2024 14:16,Flash Flood,Arjun Kumar,0,hi,True
+670,Twitter,கடல் அலைகள் அதிகம் | Hazard: Algal Bloom,21.76,72.84,4/27/2024 23:27,Algal Bloom,Sundar Raj,3,ta,True
+671,YouTube Comments,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: Algal Bloom,22.17,88.09,4/12/2024 10:05,Algal Bloom,Sundar Raj,2,bn,False
+672,Threads,കടൽ today rough | Hazard: Flash Flood,12.74,74.77,4/10/2024 16:08,Flash Flood,Shyamal Bose,20,ml,True
+673,Twitter,समंदर बहुत तेज़ है 🌊 | Hazard: High Waves,17.19,82.42,4/3/2024 16:39,High Waves,Naresh Nair,266,hi,True
+674,Instagram,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Rip Currents,13.01,80.29,4/16/2024 13:32,Rip Currents,Santosh Yadav,1,kn,True
+675,YouTube Comments,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Safe fishing day,22.06,88.15,4/13/2024 8:03,None,Arjun Kumar,1,te,False
+676,Threads,आज मछली पकड़ना मुश्किल है | Hazard: Erosion,13.25,80.41,4/4/2024 18:07,Erosion,Prakash Jha,36,hi,True
+677,YouTube Comments,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Rip Currents,17.11,82.3,4/26/2024 3:00,Rip Currents,Tapas Ghosh,7,ml,True
+678,Instagram,আজ সমুদ্র খুব ভয়ানক | Hazard: Algal Bloom,9.91,76.27,4/19/2024 18:30,Algal Bloom,Tapas Ghosh,165,bn,False
+679,Twitter,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Cyclone,8.11,77.42,4/7/2024 20:46,Cyclone,Shankar Iyer,2,kn,True
+680,Instagram,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Tsunami,17.1,82.28,4/27/2024 10:42,Tsunami,Rajesh Swain,1,ml,False
+681,Twitter,আজ সমুদ্র খুব ভয়ানক | Hazard: Rip Currents,22.29,88.06,4/17/2024 3:41,Rip Currents,Ravi Menon,3,bn,True
+682,Facebook,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Storm Surge,8.27,77.44,4/3/2024 4:19,Storm Surge,Vikram Singh,46,kn,True
+683,Instagram,માછલી પકડવામાં મુશ્કેલી | Hazard: Algal Bloom,19.85,87.64,4/6/2024 12:07,Algal Bloom,Gopal Das,188,gu,True
+684,Threads,மீன் பிடிக்க முடியவில்லை | Hazard: Algal Bloom,8.16,77.54,4/20/2024 23:43,Algal Bloom,Ashok Babu,14,ta,False
+685,Facebook,കടൽ today rough | Hazard: Erosion,19.71,87.57,4/19/2024 10:29,Erosion,Shankar Iyer,29,ml,False
+686,Facebook,आज मछली पकड़ना मुश्किल है | Safe fishing day,20.2,86.51,4/18/2024 21:06,None,Prakash Jha,34,hi,False
+687,Instagram,સમુદ્ર આજે ખુબ જ તોફાની છે | Safe fishing day,13.21,80.09,4/4/2024 20:41,None,Vijay Shetty,252,gu,False
+688,Threads,માછલી પકડવામાં મુશ્કેલી | Hazard: Erosion,21.8,72.66,4/16/2024 4:40,Erosion,Mohan Lal,43,gu,True
+689,Twitter,चक्रवात आ रहा है सावधान रहो | Hazard: Tsunami,15.57,73.94,4/14/2024 0:44,Tsunami,Naresh Nair,2,hi,False
+690,Instagram,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Oil Spill,8.15,77.73,4/19/2024 0:45,Oil Spill,Deepak Sahu,339,kn,True
+691,Twitter,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Algal Bloom,9.99,76.43,4/27/2024 11:39,Algal Bloom,Ashok Babu,0,kn,True
+692,YouTube Comments,Sea looks calm today 🎣 | Hazard: Flash Flood,12.96,80.22,4/1/2024 1:21,Flash Flood,Ravi Menon,1,en,True
+693,Threads,মাছ ধরা বন্ধ করতে হয়েছে | Safe fishing day,16.81,82.15,4/6/2024 8:18,None,Ashok Babu,26,bn,False
+694,Threads,માછલી પકડવામાં મુશ્કેલી | Hazard: Erosion,22.39,88.17,4/27/2024 2:09,Erosion,Arjun Kumar,45,gu,True
+695,Facebook,માછલી પકડવામાં મુશ્કેલી | Hazard: Cyclone,19.84,87.46,4/15/2024 23:43,Cyclone,Prakash Jha,0,gu,True
+696,YouTube Comments,ప్రళయం వస్తోందని వార్త | Hazard: Oil Spill,12.88,74.9,4/15/2024 12:31,Oil Spill,Deepak Sahu,10,te,False
+697,Facebook,ચક્રવાતની ચેતવણી | Hazard: Cyclone,8.08,77.4,4/28/2024 21:06,Cyclone,Sundar Raj,21,gu,True
+698,Facebook,ঘূর্ণিঝড় আসছে | Safe fishing day,7.9,77.37,4/4/2024 10:27,None,Vikram Singh,1,bn,True
+699,Instagram,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Cyclone,9.91,76.26,4/24/2024 23:10,Cyclone,Kamal Hassan,4,kn,False
+700,Twitter,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Cyclone,21.48,72.6,4/11/2024 23:18,Cyclone,Joseph D’Souza,2,te,True
+701,Threads,Cyclone warning received 🚨 | Hazard: Storm Surge,15.45,73.63,4/5/2024 6:36,Storm Surge,Suresh Pillai,41,en,True
+702,Facebook,സുനാമി ഭയം ഉണ്ട് | Hazard: High Waves,12.87,74.73,4/7/2024 19:24,High Waves,Gopal Das,36,ml,True
+703,Threads,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Oil Spill,9.78,76.23,4/23/2024 5:16,Oil Spill,Irfan Ali,11,kn,True
+704,Instagram,Cyclone warning received 🚨 | Hazard: Storm Surge,12.8,75,4/10/2024 8:44,Storm Surge,Ganesh Naik,309,en,False
+705,Twitter,സുനാമി ഭയം ഉണ്ട് | Hazard: Rip Currents,13,80.17,4/15/2024 3:29,Rip Currents,Anil Kumar,75,ml,True
+706,Instagram,ঘূর্ণিঝড় আসছে | Hazard: Oil Spill,7.95,77.42,4/28/2024 3:39,Oil Spill,Naresh Nair,0,bn,True
+707,Twitter,ঘূর্ণিঝড় আসছে | Hazard: Erosion,10.1,76.17,4/22/2024 10:45,Erosion,Joseph D’Souza,66,bn,False
+708,Twitter,चक्रवात आ रहा है सावधान रहो | Hazard: Storm Surge,12.86,74.92,4/7/2024 4:53,Storm Surge,Mohan Lal,4,hi,True
+709,Instagram,માછલી પકડવામાં મુશ્કેલી | Hazard: Erosion,13.06,75.04,4/26/2024 6:43,Erosion,Ganesh Naik,390,gu,True
+710,Threads,Sea looks calm today 🎣 | Hazard: Storm Surge,12.98,80.41,4/20/2024 2:52,Storm Surge,Manoj Das,1,en,False
+711,Instagram,আজ সমুদ্র খুব ভয়ানক | Hazard: Algal Bloom,19.86,87.62,4/2/2024 20:10,Algal Bloom,Manoj Das,500,bn,True
+712,Instagram,ચક્રવાતની ચેતવણી | Hazard: Rip Currents,22.05,88.03,4/2/2024 21:32,Rip Currents,Sundar Raj,0,gu,True
+713,Twitter,चक्रवात आ रहा है सावधान रहो | Hazard: Rip Currents,7.9,77.75,4/3/2024 19:23,Rip Currents,Tapas Ghosh,468,hi,True
+714,YouTube Comments,আজ সমুদ্র খুব ভয়ানক | Hazard: Cyclone,9.98,76.35,4/29/2024 2:17,Cyclone,Kamal Hassan,2,bn,False
+715,Facebook,Cyclone warning received 🚨 | Hazard: Storm Surge,21.79,72.73,4/5/2024 17:19,Storm Surge,Ramesh Patel,42,en,True
+716,Threads,चक्रवात आ रहा है सावधान रहो | Hazard: Cyclone,20.25,86.65,4/26/2024 14:37,Cyclone,Hari Prasad,20,hi,True
+717,Instagram,ચક્રવાતની ચેતવણી | Hazard: Erosion,8.11,77.48,4/17/2024 22:55,Erosion,Mohan Lal,1,gu,False
+718,Instagram,ప్రళయం వస్తోందని వార్త | Hazard: High Waves,13.07,74.65,4/21/2024 11:29,High Waves,Manoj Das,2,te,True
+719,Twitter,Cyclone warning received 🚨 | Hazard: Flash Flood,19.94,87.44,4/27/2024 15:41,Flash Flood,Kamal Hassan,471,en,False
+720,Facebook,சூறாவளி எச்சரிக்கை | Hazard: Algal Bloom,9.89,76.15,4/14/2024 9:14,Algal Bloom,Ramesh Patel,30,ta,True
+721,Twitter,ચક્રવાતની ચેતવણી | Hazard: Storm Surge,15.59,73.74,4/23/2024 22:31,Storm Surge,Mohan Lal,0,gu,True
+722,Threads,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Safe fishing day,22.04,87.93,4/16/2024 11:17,None,Sundar Raj,36,kn,True
+723,Facebook,ঘূর্ণিঝড় আসছে | Hazard: Tsunami,12.95,80.44,4/4/2024 4:13,Tsunami,Vikram Singh,38,bn,False
+724,Facebook,மீன் பிடிக்க முடியவில்லை | Hazard: Algal Bloom,20.14,86.66,4/6/2024 10:32,Algal Bloom,Manoj Das,4,ta,False
+725,Instagram,സുനാമി ഭയം ഉണ്ട് | Hazard: Cyclone,21.73,72.76,4/29/2024 22:00,Cyclone,Shyamal Bose,169,ml,False
+726,Twitter,Cyclone warning received 🚨 | Hazard: Rip Currents,12.93,74.84,4/26/2024 6:08,Rip Currents,Deepak Sahu,105,en,False
+727,Twitter,ચક્રવાતની ચેતવણી | Hazard: Storm Surge,13.05,80.23,4/6/2024 3:31,Storm Surge,Manoj Das,231,gu,True
+728,Threads,കടൽ today rough | Hazard: Tsunami,20.34,86.85,4/20/2024 2:45,Tsunami,Ramesh Patel,12,ml,False
+729,Twitter,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Oil Spill,20.11,86.67,4/29/2024 17:56,Oil Spill,Shyamal Bose,4,kn,True
+730,Instagram,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Safe fishing day,15.3,73.82,4/22/2024 5:24,None,Ashok Babu,0,kn,True
+731,Twitter,ప్రళయం వస్తోందని వార్త | Hazard: Rip Currents,8.08,77.56,4/4/2024 17:53,Rip Currents,Arjun Kumar,0,te,True
+732,Twitter,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: High Waves,16.86,82.13,4/15/2024 19:27,High Waves,Rajesh Swain,342,te,False
+733,Twitter,High waves messing up nets | Hazard: Storm Surge,12.92,80.2,4/13/2024 15:13,Storm Surge,Hari Prasad,27,en,True
+734,Instagram,High waves messing up nets | Hazard: Algal Bloom,9.78,76.08,4/8/2024 2:37,Algal Bloom,Kamal Hassan,403,en,True
+735,Facebook,માછલી પકડવામાં મુશ્કેલી | Hazard: Algal Bloom,8.14,77.64,4/9/2024 22:41,Algal Bloom,Shankar Iyer,0,gu,False
+736,YouTube Comments,ચક્રવાતની ચેતવણી | Hazard: Storm Surge,22.18,88.2,4/17/2024 10:59,Storm Surge,Hari Prasad,4,gu,True
+737,Facebook,ঘূর্ণিঝড় আসছে | Hazard: Algal Bloom,20.19,86.79,4/13/2024 0:21,Algal Bloom,Anil Kumar,20,bn,True
+738,YouTube Comments,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Algal Bloom,9.74,76.28,4/10/2024 11:51,Algal Bloom,Prakash Jha,8,kn,False
+739,Twitter,മത്സ്യബന്ധനം stop ചെയ്യണം | Safe fishing day,8.13,77.43,4/17/2024 22:16,None,Deepak Sahu,2,ml,True
+740,Instagram,കടൽ today rough | Hazard: Tsunami,15.61,74.01,4/18/2024 23:00,Tsunami,Ramesh Patel,0,ml,True
+741,Threads,আজ সমুদ্র খুব ভয়ানক | Hazard: Tsunami,12.79,74.91,4/17/2024 0:25,Tsunami,Mohan Lal,20,bn,True
+742,Twitter,ঘূর্ণিঝড় আসছে | Hazard: Tsunami,21.73,72.69,4/9/2024 3:01,Tsunami,Tapas Ghosh,1,bn,True
+743,Twitter,கடல் அலைகள் அதிகம் | Hazard: Storm Surge,20.11,86.55,4/17/2024 11:49,Storm Surge,Shyamal Bose,57,ta,False
+744,Twitter,ঘূর্ণিঝড় আসছে | Hazard: Algal Bloom,19.83,87.41,4/5/2024 13:30,Algal Bloom,Santosh Yadav,315,bn,True
+745,Twitter,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Algal Bloom,9.73,76.25,4/8/2024 0:53,Algal Bloom,Hari Prasad,1,kn,True
+746,Threads,மீன் பிடிக்க முடியவில்லை | Safe fishing day,12.97,80.15,4/27/2024 12:01,None,Mohan Lal,16,ta,False
+747,Facebook,আজ সমুদ্র খুব ভয়ানক | Hazard: Flash Flood,7.92,77.62,4/18/2024 16:56,Flash Flood,Vikram Singh,13,bn,True
+748,Facebook,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: Tsunami,15.38,73.81,4/24/2024 17:12,Tsunami,Deepak Sahu,14,bn,True
+749,Facebook,ચક્રવાતની ચેતવણી | Hazard: Rip Currents,16.87,82.1,4/8/2024 19:10,Rip Currents,Sundar Raj,28,gu,False
+750,Twitter,समंदर बहुत तेज़ है 🌊 | Safe fishing day,7.97,77.64,4/20/2024 9:30,None,Kamal Hassan,0,hi,True
+751,Twitter,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Flash Flood,13.16,80.07,4/21/2024 5:43,Flash Flood,Sundar Raj,50,te,True
+752,Threads,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Oil Spill,8.21,77.6,4/30/2024 19:44,Oil Spill,Shyamal Bose,19,kn,True
+753,Twitter,আজ সমুদ্র খুব ভয়ানক | Hazard: Flash Flood,13,80.19,4/10/2024 20:42,Flash Flood,Ganesh Naik,5,bn,False
+754,Facebook,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Storm Surge,12.82,74.68,4/3/2024 7:04,Storm Surge,Shyamal Bose,25,kn,True
+755,Instagram,കടൽ today rough | Hazard: Erosion,13.09,74.66,4/14/2024 4:34,Erosion,Naresh Nair,402,ml,True
+756,YouTube Comments,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Cyclone,20.1,86.69,4/14/2024 13:56,Cyclone,Gopal Das,8,kn,False
+757,Instagram,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Cyclone,21.57,72.69,4/15/2024 8:09,Cyclone,Gopal Das,121,gu,True
+758,Twitter,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: Oil Spill,15.31,74,4/17/2024 15:29,Oil Spill,Anil Kumar,4,bn,False
+759,Twitter,மீன் பிடிக்க முடியவில்லை | Hazard: Flash Flood,13.05,74.82,4/14/2024 8:53,Flash Flood,Rajesh Swain,3,ta,True
+760,Instagram,സുനാമി ഭയം ഉണ്ട് | Hazard: High Waves,19.66,87.26,4/19/2024 23:37,High Waves,Naresh Nair,3,ml,True
+761,Facebook,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Algal Bloom,20,87.54,4/26/2024 10:20,Algal Bloom,Kamal Hassan,35,te,True
+762,Threads,சூறாவளி எச்சரிக்கை | Hazard: Algal Bloom,13.24,80.45,4/27/2024 7:04,Algal Bloom,Ganesh Naik,47,ta,False
+763,Twitter,માછલી પકડવામાં મુશ્કેલી | Hazard: Algal Bloom,16.89,82.41,4/21/2024 9:16,Algal Bloom,Prakash Jha,282,gu,False
+764,Threads,ચક્રવાતની ચેતવણી | Hazard: Cyclone,20.36,86.52,4/23/2024 20:14,Cyclone,Shyamal Bose,48,gu,False
+765,Threads,আজ সমুদ্র খুব ভয়ানক | Hazard: Storm Surge,12.83,74.77,4/5/2024 3:35,Storm Surge,Naresh Nair,3,bn,False
+766,Twitter,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Tsunami,15.32,73.71,4/12/2024 5:55,Tsunami,Shankar Iyer,447,kn,True
+767,Threads,സുനാമി ഭയം ഉണ്ട് | Hazard: Cyclone,12.77,74.77,4/2/2024 15:57,Cyclone,Ganesh Naik,10,ml,False
+768,Threads,കടൽ today rough | Hazard: Oil Spill,9.82,76.14,4/30/2024 16:49,Oil Spill,Santosh Yadav,18,ml,True
+769,Instagram,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Flash Flood,17.13,82.11,4/18/2024 2:39,Flash Flood,Sundar Raj,3,te,True
+770,Instagram,Sea looks calm today 🎣 | Hazard: Rip Currents,12.92,80.43,4/26/2024 7:25,Rip Currents,Mohan Lal,0,en,True
+771,Instagram,Sea looks calm today 🎣 | Hazard: Oil Spill,15.58,73.68,4/8/2024 8:08,Oil Spill,Mohan Lal,4,en,False
+772,YouTube Comments,चक्रवात आ रहा है सावधान रहो | Hazard: Erosion,20.14,86.66,4/6/2024 20:13,Erosion,Hari Prasad,6,hi,True
+773,Threads,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Safe fishing day,21.57,72.85,4/6/2024 10:43,None,Manoj Das,12,kn,True
+774,Facebook,ప్రళయం వస్తోందని వార్త | Hazard: Oil Spill,12.94,74.93,4/25/2024 6:08,Oil Spill,Manoj Das,21,te,False
+775,YouTube Comments,आज मछली पकड़ना मुश्किल है | Hazard: Flash Flood,19.72,87.44,4/9/2024 5:15,Flash Flood,Sundar Raj,0,hi,True
+776,YouTube Comments,समंदर बहुत तेज़ है 🌊 | Hazard: Oil Spill,22.23,87.99,4/1/2024 10:24,Oil Spill,Tapas Ghosh,9,hi,True
+777,Threads,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Erosion,15.57,73.99,4/25/2024 23:03,Erosion,Naresh Nair,2,te,False
+778,Instagram,மீன் பிடிக்க முடியவில்லை | Hazard: Flash Flood,12.89,80.12,4/12/2024 11:12,Flash Flood,Sundar Raj,476,ta,True
+779,Threads,चक्रवात आ रहा है सावधान रहो | Hazard: Oil Spill,13.12,80.21,4/6/2024 3:40,Oil Spill,Joseph D’Souza,15,hi,True
+780,Twitter,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Cyclone,22.34,88.2,4/19/2024 1:41,Cyclone,Shankar Iyer,365,kn,True
+781,Threads,ચક્રવાતની ચેતવણી | Hazard: Cyclone,13.24,80.45,4/29/2024 5:01,Cyclone,Shyamal Bose,22,gu,True
+782,Instagram,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: High Waves,22.41,87.96,4/21/2024 4:18,High Waves,Mohan Lal,460,te,False
+783,Instagram,Sea looks calm today 🎣 | Hazard: High Waves,16.91,82.2,4/25/2024 21:49,High Waves,Naresh Nair,2,en,True
+784,Instagram,মাছ ধরা বন্ধ করতে হয়েছে | Safe fishing day,7.97,77.63,4/6/2024 2:49,None,Rajesh Swain,1,bn,True
+785,YouTube Comments,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Cyclone,21.66,72.63,4/1/2024 10:02,Cyclone,Santosh Yadav,1,kn,False
+786,Instagram,ঘূর্ণিঝড় আসছে | Safe fishing day,21.74,72.69,4/21/2024 2:35,None,Naresh Nair,4,bn,True
+787,Facebook,સમુદ્ર આજે ખુબ જ તોફાની છે | Safe fishing day,17.16,82.2,4/26/2024 14:46,None,Arjun Kumar,2,gu,True
+788,Twitter,Cyclone warning received 🚨 | Hazard: Storm Surge,21.62,72.75,4/13/2024 11:50,Storm Surge,Prakash Jha,5,en,False
+789,YouTube Comments,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Flash Flood,16.87,82.32,4/18/2024 9:05,Flash Flood,Shankar Iyer,1,kn,True
+790,Twitter,സുനാമി ഭയം ഉണ്ട് | Hazard: Rip Currents,13.19,80.1,4/25/2024 4:07,Rip Currents,Ganesh Naik,2,ml,True
+791,Twitter,സുനാമി ഭയം ഉണ്ട് | Hazard: Flash Flood,20.3,86.8,4/22/2024 19:06,Flash Flood,Vijay Shetty,458,ml,True
+792,Facebook,ચક્રવાતની ચેતવણી | Hazard: Cyclone,19.81,87.56,4/13/2024 23:52,Cyclone,Kamal Hassan,17,gu,False
+793,Instagram,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Algal Bloom,20.23,86.78,4/12/2024 16:01,Algal Bloom,Gopal Das,6,kn,True
+794,Twitter,High waves messing up nets | Hazard: Storm Surge,12.95,74.98,4/16/2024 19:52,Storm Surge,Gopal Das,99,en,True
+795,Twitter,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: High Waves,8.03,77.74,4/1/2024 9:37,High Waves,Prakash Jha,387,te,False
+796,Instagram,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: High Waves,22.31,88.08,4/9/2024 23:04,High Waves,Mohan Lal,370,gu,True
+797,Twitter,സുനാമി ഭയം ഉണ്ട് | Hazard: Algal Bloom,21.53,72.62,4/11/2024 8:00,Algal Bloom,Ravi Menon,259,ml,False
+798,Threads,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: Storm Surge,8.26,77.67,4/1/2024 9:39,Storm Surge,Joseph D’Souza,41,bn,True
+799,Threads,High waves messing up nets | Hazard: Cyclone,20.38,86.5,4/18/2024 4:49,Cyclone,Santosh Yadav,32,en,True
+800,Instagram,கடல் அலைகள் அதிகம் | Hazard: Rip Currents,13.17,80.09,4/25/2024 12:56,Rip Currents,Arjun Kumar,5,ta,True
+801,YouTube Comments,చేపలు చాలా తక్కువగా ఉన్నాయి | Safe fishing day,22.2,88.26,4/30/2024 22:05,None,Ashok Babu,5,te,False
+802,Threads,Sea looks calm today 🎣 | Hazard: High Waves,17.07,82.09,4/20/2024 16:46,High Waves,Joseph D’Souza,13,en,False
+803,Instagram,માછલી પકડવામાં મુશ્કેલી | Hazard: Rip Currents,8.05,77.38,4/19/2024 22:20,Rip Currents,Ashok Babu,94,gu,False
+804,Twitter,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Flash Flood,13.16,80.14,4/20/2024 11:21,Flash Flood,Suresh Pillai,4,ml,False
+805,YouTube Comments,சூறாவளி எச்சரிக்கை | Hazard: Algal Bloom,20.22,86.84,4/9/2024 4:33,Algal Bloom,Rajesh Swain,1,ta,True
+806,Instagram,High waves messing up nets | Hazard: Tsunami,22.07,87.87,4/16/2024 10:36,Tsunami,Anil Kumar,440,en,False
+807,Twitter,மீன் பிடிக்க முடியவில்லை | Hazard: Tsunami,12.99,80.28,4/27/2024 10:43,Tsunami,Rajesh Swain,189,ta,True
+808,Twitter,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Rip Currents,13.09,74.82,4/22/2024 14:35,Rip Currents,Gopal Das,0,gu,True
+809,Twitter,സുനാമി ഭയം ഉണ്ട് | Hazard: Algal Bloom,21.7,72.56,4/7/2024 8:49,Algal Bloom,Arjun Kumar,131,ml,True
+810,Instagram,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Rip Currents,15.46,73.73,4/13/2024 0:29,Rip Currents,Joseph D’Souza,3,ml,False
+811,Threads,സുനാമി ഭയം ഉണ്ട് | Hazard: Storm Surge,22.14,88.19,4/13/2024 3:57,Storm Surge,Anil Kumar,31,ml,True
+812,Instagram,মাছ ধরা বন্ধ করতে হয়েছে | Safe fishing day,20.27,86.87,4/10/2024 9:35,None,Shyamal Bose,0,bn,True
+813,YouTube Comments,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Erosion,15.66,73.64,4/17/2024 1:46,Erosion,Vijay Shetty,0,kn,False
+814,YouTube Comments,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Flash Flood,17.16,82.21,4/29/2024 20:43,Flash Flood,Ramesh Patel,7,kn,True
+815,Twitter,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Oil Spill,13.12,80.43,4/29/2024 10:55,Oil Spill,Deepak Sahu,304,kn,True
+816,Twitter,ప్రళయం వస్తోందని వార్త | Hazard: Oil Spill,15.29,73.83,4/4/2024 20:47,Oil Spill,Manoj Das,5,te,False
+817,Threads,சூறாவளி எச்சரிக்கை | Hazard: Rip Currents,10.07,76.19,4/18/2024 15:07,Rip Currents,Arjun Kumar,25,ta,True
+818,Facebook,માછલી પકડવામાં મુશ્કેલી | Hazard: Cyclone,12.76,75.04,4/10/2024 5:24,Cyclone,Mohan Lal,28,gu,False
+819,Instagram,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Algal Bloom,17.02,82.37,4/7/2024 7:12,Algal Bloom,Manoj Das,80,gu,True
+820,Threads,માછલી પકડવામાં મુશ્કેલી | Hazard: Erosion,8.11,77.55,4/14/2024 4:33,Erosion,Shankar Iyer,21,gu,True
+821,Facebook,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Rip Currents,20.29,86.49,4/1/2024 6:07,Rip Currents,Anil Kumar,31,ml,False
+822,Instagram,Cyclone warning received 🚨 | Hazard: Flash Flood,22.28,87.87,4/25/2024 8:29,Flash Flood,Rajesh Swain,4,en,True
+823,Twitter,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Storm Surge,20.37,86.64,4/23/2024 11:35,Storm Surge,Manoj Das,190,kn,True
+824,Instagram,കടൽ today rough | Hazard: Erosion,22.24,87.88,4/1/2024 6:24,Erosion,Tapas Ghosh,168,ml,False
+825,Instagram,சூறாவளி எச்சரிக்கை | Hazard: Flash Flood,20.16,86.54,4/26/2024 8:33,Flash Flood,Anil Kumar,5,ta,True
+826,Facebook,আজ সমুদ্র খুব ভয়ানক | Hazard: High Waves,13.25,80.16,4/21/2024 17:20,High Waves,Ganesh Naik,50,bn,True
+827,Facebook,High waves messing up nets | Hazard: Rip Currents,13.11,80.12,4/25/2024 13:23,Rip Currents,Vijay Shetty,24,en,True
+828,Instagram,ప్రళయం వస్తోందని వార్త | Hazard: Cyclone,12.91,74.93,4/14/2024 19:00,Cyclone,Vikram Singh,4,te,True
+829,Threads,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Algal Bloom,9.92,76.26,4/16/2024 9:44,Algal Bloom,Naresh Nair,20,te,False
+830,Facebook,चक्रवात आ रहा है सावधान रहो | Hazard: Tsunami,13.1,80.39,4/8/2024 9:18,Tsunami,Santosh Yadav,34,hi,True
+831,Instagram,கடல் அலைகள் அதிகம் | Hazard: Rip Currents,12.93,74.89,4/1/2024 2:56,Rip Currents,Deepak Sahu,233,ta,True
+832,Twitter,Sea looks calm today 🎣 | Hazard: Tsunami,13.04,80.25,4/24/2024 20:39,Tsunami,Ramesh Patel,2,en,False
+833,YouTube Comments,கடல் அலைகள் அதிகம் | Hazard: Oil Spill,21.74,72.56,4/14/2024 6:09,Oil Spill,Ganesh Naik,10,ta,True
+834,Twitter,கடல் அலைகள் அதிகம் | Hazard: Erosion,9.8,76.13,4/19/2024 21:07,Erosion,Gopal Das,469,ta,True
+835,Threads,আজ সমুদ্র খুব ভয়ানক | Hazard: Algal Bloom,21.75,72.8,4/20/2024 15:06,Algal Bloom,Rajesh Swain,10,bn,False
+836,Instagram,Sea looks calm today 🎣 | Hazard: Oil Spill,17.08,82.17,4/24/2024 3:15,Oil Spill,Ganesh Naik,5,en,True
+837,Instagram,ঘূর্ণিঝড় আসছে | Hazard: Algal Bloom,13.11,74.8,4/4/2024 7:09,Algal Bloom,Vikram Singh,330,bn,True
+838,Instagram,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Cyclone,12.79,74.88,4/13/2024 8:48,Cyclone,Santosh Yadav,0,te,True
+839,Twitter,ప్రళయం వస్తోందని వార్త | Hazard: Erosion,15.65,73.95,4/4/2024 12:09,Erosion,Suresh Pillai,280,te,False
+840,Instagram,আজ সমুদ্র খুব ভয়ানক | Hazard: Rip Currents,12.85,74.72,4/17/2024 1:09,Rip Currents,Ravi Menon,153,bn,True
+841,Facebook,ప్రళయం వస్తోందని వార్త | Hazard: Algal Bloom,20.47,86.72,4/29/2024 13:43,Algal Bloom,Ganesh Naik,21,te,True
+842,Threads,आज मछली पकड़ना मुश्किल है | Hazard: Algal Bloom,19.95,87.48,4/18/2024 18:28,Algal Bloom,Naresh Nair,32,hi,False
+843,Instagram,സുനാമി ഭയം ഉണ്ട് | Hazard: High Waves,15.64,73.97,4/13/2024 0:57,High Waves,Sundar Raj,2,ml,True
+844,Instagram,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Storm Surge,8.11,77.45,4/24/2024 19:37,Storm Surge,Shankar Iyer,39,kn,False
+845,Twitter,Sea looks calm today 🎣 | Hazard: High Waves,10.09,76.43,4/1/2024 5:09,High Waves,Suresh Pillai,4,en,True
+846,Twitter,Cyclone warning received 🚨 | Hazard: High Waves,15.51,73.67,4/15/2024 13:15,High Waves,Tapas Ghosh,0,en,True
+847,Threads,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Storm Surge,7.94,77.58,4/17/2024 19:33,Storm Surge,Manoj Das,29,te,True
+848,YouTube Comments,আজ সমুদ্র খুব ভয়ানক | Hazard: Cyclone,8.28,77.73,4/8/2024 17:00,Cyclone,Vijay Shetty,3,bn,False
+849,Twitter,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Storm Surge,12.84,75.01,4/3/2024 3:16,Storm Surge,Ganesh Naik,293,gu,False
+850,Threads,चक्रवात आ रहा है सावधान रहो | Hazard: Rip Currents,13.09,74.67,4/16/2024 8:30,Rip Currents,Rajesh Swain,39,hi,False
+851,Instagram,માછલી પકડવામાં મુશ્કેલી | Safe fishing day,21.48,72.92,4/19/2024 7:49,None,Santosh Yadav,2,gu,False
+852,YouTube Comments,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Erosion,15.68,73.65,4/2/2024 18:20,Erosion,Ravi Menon,9,te,True
+853,Facebook,आज मछली पकड़ना मुश्किल है | Hazard: Rip Currents,9.81,76.28,4/30/2024 15:05,Rip Currents,Sundar Raj,40,hi,False
+854,Instagram,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Algal Bloom,7.96,77.63,4/18/2024 2:19,Algal Bloom,Ashok Babu,1,te,True
+855,Twitter,Sea looks calm today 🎣 ,22.03,88.21,4/30/2024 13:15,Oil Spill,Ganesh Naik,4,en,True
+856,Instagram,High waves messing up nets,19.78,87.43,4/27/2024 23:04,Oil Spill,Rajesh Swain,418,en,True
+857,Threads,மீன் பிடிக்க முடியவில்லை,19.81,87.55,4/25/2024 2:11,High Waves,Santosh Yadav,41,ta,False
+858,Threads,High waves messing up nets,21.72,72.69,4/15/2024 5:42,Erosion,Santosh Yadav,49,en,True
+859,Threads,चक्रवात आ रहा है सावधान रहो ,9.8,76.42,4/21/2024 0:20,Storm Surge,Rajesh Swain,48,hi,True
+860,Twitter,માછલી પકડવામાં મુશ્કેલી ,9.81,76.11,4/15/2024 0:36,Rip Currents,Mohan Lal,0,gu,False
+861,Twitter,ప్రళయం వస్తోందని వార్త ,12.84,75.01,4/2/2024 7:26,High Waves,Naresh Nair,5,te,True
+862,Threads,સમુદ્ર આજે ખુબ જ તોફાની છે ,20.37,86.62,4/30/2024 5:45,Storm Surge,Rajesh Swain,40,gu,True
+863,Instagram,ચક્રવાતની ચેતવણી ,19.79,87.33,4/7/2024 19:57,Oil Spill,Gopal Das,392,gu,False
+864,Instagram,માછલી પકડવામાં મુશ્કેલી,8.05,77.44,4/14/2024 13:06,Rip Currents,Ravi Menon,122,gu,True
+865,Instagram,Cyclone warning received 🚨 ,9.8,76.21,4/23/2024 20:20,Oil Spill,Anil Kumar,1,en,True
+866,Instagram,ચક્રવાતની ચેતવણી ,9.89,76.13,4/27/2024 23:14,Oil Spill,Deepak Sahu,412,gu,True
+867,Twitter,আজ সমুদ্র খুব ভয়ানক | Hazard: Tsunami,12.98,74.83,4/26/2024 0:07,Tsunami,Sundar Raj,212,bn,True
+868,Instagram,ચક્રવાતની ચેતવણી | Hazard: Erosion,13.07,80.35,4/24/2024 15:22,Erosion,Naresh Nair,4,gu,False
+869,Threads,ಇಂದು ಅಲೆಗಳು ತುಂಬಾ ಜಾಸ್ತಿ | Hazard: Tsunami,12.97,80.29,4/29/2024 3:34,Tsunami,Anil Kumar,44,kn,True
+870,Instagram,സുനാമി ഭയം ഉണ്ട് | Hazard: Cyclone,9.76,76.21,4/15/2024 5:38,Cyclone,Irfan Ali,120,ml,True
+871,YouTube Comments,समंदर बहुत तेज़ है 🌊 | Hazard: High Waves,12.86,74.75,4/27/2024 16:25,High Waves,Gopal Das,0,hi,False
+872,Facebook,আজ সমুদ্র খুব ভয়ানক | Hazard: Storm Surge,13.05,74.83,4/6/2024 3:23,Storm Surge,Manoj Das,29,bn,True
+873,Threads,ચક્રવાતની ચેતવણી | Safe fishing day,19.78,87.57,4/1/2024 23:04,None,Joseph D’Souza,23,gu,True
+874,Instagram,માછલી પકડવામાં મુશ્કેલી | Hazard: Cyclone,15.55,74.01,4/18/2024 15:05,Cyclone,Kamal Hassan,1,gu,False
+875,Instagram,समंदर बहुत तेज़ है 🌊 | Hazard: Rip Currents,13.08,74.82,4/16/2024 16:17,Rip Currents,Ravi Menon,4,hi,True
+876,Twitter,സുനാമി ഭയം ഉണ്ട് | Hazard: Rip Currents,21.53,72.74,4/18/2024 13:50,Rip Currents,Prakash Jha,4,ml,True
+877,Threads,আজ সমুদ্র খুব ভয়ানক | Hazard: High Waves,22.08,87.91,4/17/2024 4:11,High Waves,Prakash Jha,21,bn,True
+878,Instagram,ಚಂಡಮಾರುತ ಎಚ್ಚರಿಕೆ | Hazard: Storm Surge,19.87,87.61,4/19/2024 23:52,Storm Surge,Irfan Ali,3,kn,False
+879,Twitter,ચક્રવાતની ચેતવણી | Hazard: Cyclone,20.21,86.69,4/3/2024 19:38,Cyclone,Shankar Iyer,4,gu,True
+880,Facebook,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Cyclone,12.76,74.98,4/13/2024 17:26,Cyclone,Hari Prasad,48,kn,True
+881,Instagram,Cyclone warning received 🚨 | Hazard: Oil Spill,9.93,76.16,4/4/2024 22:38,Oil Spill,Vijay Shetty,247,en,False
+882,Threads,মাছ ধরা বন্ধ করতে হয়েছে | Safe fishing day,12.91,74.89,4/2/2024 19:22,None,Hari Prasad,38,bn,True
+883,Twitter,ప్రళయం వస్తోందని వార్త | Safe fishing day,16.8,82.44,4/27/2024 18:17,None,Deepak Sahu,2,te,False
+884,Threads,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Tsunami,20.26,86.72,4/7/2024 15:56,Tsunami,Prakash Jha,41,ml,True
+885,YouTube Comments,માછલી પકડવામાં મુશ્કેલી | Hazard: High Waves,22.27,87.93,4/23/2024 18:12,High Waves,Hari Prasad,3,gu,True
+886,Threads,মাছ ধরা বন্ধ করতে হয়েছে | Hazard: Flash Flood,15.49,73.63,4/20/2024 23:18,Flash Flood,Suresh Pillai,13,bn,True
+887,Instagram,Cyclone warning received 🚨 | Hazard: Tsunami,17.11,82.15,4/30/2024 18:45,Tsunami,Hari Prasad,0,en,False
+888,Threads,கடல் அலைகள் அதிகம் | Hazard: Flash Flood,8.21,77.44,4/13/2024 11:29,Flash Flood,Naresh Nair,14,ta,False
+889,YouTube Comments,സുനാമി ഭയം ഉണ്ട് | Hazard: Algal Bloom,12.74,74.74,4/2/2024 18:55,Algal Bloom,Anil Kumar,3,ml,False
+890,Twitter,Cyclone warning received 🚨 | Hazard: Tsunami,15.41,73.97,4/1/2024 9:47,Tsunami,Shankar Iyer,161,en,False
+891,Instagram,સમુદ્ર આજે ખુબ જ તોફાની છે | Hazard: Cyclone,12.85,74.86,4/21/2024 13:14,Cyclone,Deepak Sahu,0,gu,True
+892,Facebook,Cyclone warning received 🚨 | Hazard: Rip Currents,10.12,76.07,4/1/2024 20:13,Rip Currents,Vikram Singh,6,en,False
+893,Instagram,માછલી પકડવામાં મુશ્કેલી | Hazard: Storm Surge,13.04,74.77,4/3/2024 23:30,Storm Surge,Ramesh Patel,227,gu,True
+894,Instagram,માછલી પકડવામાં મુશ્કેલી | Hazard: Cyclone,12.77,74.76,4/21/2024 14:53,Cyclone,Ramesh Patel,165,gu,True
+895,Twitter,സുനാമി ഭയം ഉണ്ട് | Hazard: Storm Surge,21.83,72.59,4/22/2024 23:05,Storm Surge,Rajesh Swain,432,ml,True
+896,Threads,மீன் பிடிக்க முடியவில்லை | Hazard: Tsunami,21.7,72.69,4/5/2024 22:04,Tsunami,Mohan Lal,44,ta,False
+897,YouTube Comments,കടൽ today rough | Hazard: Erosion,19.66,87.52,4/8/2024 9:37,Erosion,Arjun Kumar,9,ml,True
+898,Twitter,ঘূর্ণিঝড় আসছে | Hazard: Oil Spill,19.77,87.3,4/5/2024 2:11,Oil Spill,Ramesh Patel,0,bn,True
+899,Instagram,समंदर बहुत तेज़ है 🌊 | Hazard: Cyclone,8.02,77.74,4/18/2024 17:48,Cyclone,Joseph D’Souza,4,hi,False
+900,Instagram,చేపలు చాలా తక్కువగా ఉన్నాయి | Hazard: Flash Flood,16.85,82.24,4/20/2024 5:48,Flash Flood,Shankar Iyer,165,te,True
+901,Instagram,സുനാമി ഭയം ഉണ്ട് | Hazard: Algal Bloom,17.07,82.08,4/15/2024 15:39,Algal Bloom,Anil Kumar,5,ml,True
+902,Facebook,கடல் அலைகள் அதிகம் | Hazard: Flash Flood,12.88,75.01,4/6/2024 5:56,Flash Flood,Sundar Raj,24,ta,False
+903,YouTube Comments,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: High Waves,22.39,87.91,4/10/2024 16:35,High Waves,Suresh Pillai,1,ml,True
+904,Instagram,समंदर बहुत तेज़ है 🌊 | Safe fishing day,8.02,77.66,4/4/2024 21:17,None,Mohan Lal,5,hi,True
+905,Twitter,Cyclone warning received 🚨 | Hazard: Rip Currents,15.68,73.84,4/8/2024 17:21,Rip Currents,Santosh Yadav,3,en,True
+906,Threads,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Erosion,19.77,87.29,4/8/2024 1:57,Erosion,Santosh Yadav,6,te,True
+907,Threads,ప్రళయం వస్తోందని వార్త | Hazard: Rip Currents,21.7,72.6,4/1/2024 1:43,Rip Currents,Ganesh Naik,0,te,False
+908,Instagram,आज मछली पकड़ना मुश्किल है | Hazard: Rip Currents,20.14,86.87,4/10/2024 10:31,Rip Currents,Joseph D’Souza,3,hi,True
+909,Facebook,ঘূর্ণিঝড় আসছে | Hazard: Cyclone,10.12,76.15,4/21/2024 6:58,Cyclone,Ravi Menon,9,bn,True
+910,Twitter,Sea looks calm today 🎣 | Hazard: Storm Surge,17.08,82.23,4/29/2024 20:46,Storm Surge,Ravi Menon,2,en,False
+911,YouTube Comments,ప్రళయం వస్తోందని వార్త | Hazard: Cyclone,21.53,72.92,4/19/2024 12:29,Cyclone,Prakash Jha,9,te,True
+912,Twitter,கடல் அலைகள் அதிகம் | Hazard: Cyclone,21.44,72.61,4/11/2024 21:16,Cyclone,Santosh Yadav,4,ta,True
+913,YouTube Comments,മത്സ്യബന്ധനം stop ചെയ്യണം | Hazard: Rip Currents,20.26,86.6,4/5/2024 9:14,Rip Currents,Arjun Kumar,5,ml,False
+914,Twitter,चक्रवात आ रहा है सावधान रहो | Hazard: Oil Spill,12.8,75,4/21/2024 17:23,Oil Spill,Manoj Das,5,hi,True
+915,YouTube Comments,चक्रवात आ रहा है सावधान रहो | Hazard: Storm Surge,8.08,77.66,4/28/2024 21:17,Storm Surge,Prakash Jha,2,hi,True
+916,Threads,Cyclone warning received 🚨 | Hazard: Storm Surge,7.99,77.72,4/10/2024 2:03,Storm Surge,Arjun Kumar,24,en,True
+917,YouTube Comments,আজ সমুদ্র খুব ভয়ানক | Hazard: Tsunami,22.31,88.2,4/1/2024 12:56,Tsunami,Vijay Shetty,8,bn,False
+918,Twitter,சூறாவளி எச்சரிக்கை | Hazard: Storm Surge,15.39,73.96,4/26/2024 14:34,Storm Surge,Irfan Ali,112,ta,True
+919,Instagram,चक्रवात आ रहा है सावधान रहो | Hazard: Erosion,15.59,73.64,4/21/2024 18:04,Erosion,Ganesh Naik,473,hi,True
+920,YouTube Comments,ప్రళయం వస్తోందని వార్త | Hazard: Cyclone,22.35,87.94,4/16/2024 2:44,Cyclone,Manoj Das,4,te,False
+921,Twitter,Sea looks calm today 🎣 | Hazard: Rip Currents,21.7,72.88,4/28/2024 12:37,Rip Currents,Manoj Das,462,en,True
+922,Twitter,ಮೀನು ಸಿಕ್ಕಿಲ್ಲ 😔 | Hazard: Oil Spill,19.62,87.57,4/5/2024 12:28,Oil Spill,Mohan Lal,25,kn,False
+923,Facebook,ప్రళయం వస్తోందని వార్త | Hazard: Algal Bloom,19.83,87.49,4/19/2024 21:17,Algal Bloom,Gopal Das,6,te,True
+924,Twitter,ఈ రోజు సముద్రం చాలా రఫ్ గా ఉంది | Hazard: Erosion,17.08,82.09,4/28/2024 2:36,Erosion,Rajesh Swain,3,te,True
+925,Threads,আজ সমুদ্র খুব ভয়ানক | Hazard: Cyclone,12.99,80.14,4/15/2024 16:51,Cyclone,Vikram Singh,38,bn,True
+926,Threads,സുനാമി ഭയം ഉണ്ട് | Hazard: Erosion,12.88,74.68,4/1/2024 10:18,Erosion,Manoj Das,23,ml,False
+927,Instagram,માછલી પકડવામાં મુશ્કેલી | Hazard: Tsunami,12.96,80.43,4/16/2024 16:09,Tsunami,Vijay Shetty,299,gu,False
+928,Twitter,आज मछली पकड़ना मुश्किल है | Hazard: Erosion,19.96,87.32,4/27/2024 12:11,Erosion,Deepak Sahu,3,hi,False
+929,YouTube Comments,Sea looks calm today 🎣 | Hazard: Algal Bloom,21.59,72.57,4/30/2024 15:03,Algal Bloom,Manoj Das,10,en,False
+930,Threads,மீன் பிடிக்க முடியவில்லை | Hazard: Rip Currents,22.19,88.01,4/17/2024 1:02,Rip Currents,Prakash Jha,10,ta,True
+931,Youtube comments,Attention: cyclone detected near Mumbai harbor. Take precautions!,34.31979147,74.85461759,14:05.7,coastal erosion,Sanjay Sharma,371,en,False
+932,Thread,Notice: coastal erosion in the vicinity of Visakhapatnam port. Keep safe!,25.51772161,79.6696703,14:05.7,coastal erosion,Arjun Reddy,821,en,True
+933,Facebook,Attention: coastal erosion detected near Kerala backwaters. Take precautions!,25.00794262,86.23109094,14:05.7,flood,Vijay Sharma,631,en,True
+934,Facebook,Alert: flood near Kerala backwaters. Seek safe shelter immediately!,35.36486257,82.0136182,14:05.7,coastal erosion,Vijay Singh,947,en,True
+935,Facebook,Caution: storm surge expected in Kerala backwaters. Stay tuned for updates!,23.47819697,81.87487315,14:05.7,storm surge,Amit Patel,854,en,False
+936,Twitter,Advisory: Potential cyclone near Chennai coast. Stay vigilant!,18.66309691,89.08098376,14:05.7,flood,Vijay Reddy,502,en,True
+937,Facebook,Notice: tsunami in the vicinity of Mumbai harbor. Keep safe!,20.39755319,76.53813643,14:05.7,storm surge,Amit Singh,7,en,True
+938,Instagram,Warning: flood reported near Kerala backwaters. Stay safe!,24.67591541,79.33544319,14:05.7,cyclone,Vijay Kumar,617,en,False
+939,Youtube comments,Urgent: coastal erosion approaching Goa beaches. Fishermen beware!,16.46771893,90.05067623,14:05.7,cyclone,Rahul Kumar,137,en,True
+940,Thread,Caution: storm surge expected in Kolkata delta. Stay tuned for updates!,26.14912926,93.83864918,14:05.7,cyclone,Arjun Reddy,694,en,True
+941,Thread,Update: tsunami forecasted near Mumbai harbor. Be prepared!,15.86955008,71.11389641,14:05.7,storm surge,Arjun Patel,896,en,False
+942,Youtube comments,Attention: tsunami detected near Puri beach. Take precautions!,29.12743261,70.80655496,14:05.7,coastal erosion,Vijay Gupta,851,en,True
+943,Instagram,Caution: coastal erosion expected in Kochi coast. Stay tuned for updates!,34.05016779,78.4735672,14:05.7,coastal erosion,Rahul Yadav,376,en,True
+944,Twitter,Advisory: Potential storm surge near Kerala backwaters. Stay vigilant!,25.79764742,84.26821639,14:05.7,flood,Ramesh Patel,932,en,True
+945,Thread,Caution: cyclone expected in Puducherry shores. Stay tuned for updates!,7.140184524,69.08521524,14:05.7,flood,Rajesh Reddy,721,en,False
+946,Twitter,Observed cyclone near Surat shore. Please stay alert!,24.65682525,96.49057972,14:05.7,coastal erosion,Arjun Kumar,148,en,True
+947,Twitter,Attention: coastal erosion detected near Goa beaches. Take precautions!,26.11771439,77.50521917,14:05.7,tsunami,Ramesh Reddy,885,en,True
+948,Thread,Urgent: storm surge approaching Mumbai harbor. Fishermen beware!,34.69341882,74.58299668,14:05.7,storm surge,Ramesh Gupta,259,en,False
+949,Twitter,Heads up! cyclone spotted near Mumbai harbor. Be cautious!,31.9980623,72.23903241,14:05.7,storm surge,Sanjay Sharma,126,en,True
+950,Youtube comments,Warning: cyclone reported near Visakhapatnam port. Stay safe!,21.40170083,70.94971586,14:05.7,storm surge,Rajesh Yadav,810,en,True
+951,Facebook,Observed flood near Goa beaches. Please stay alert!,8.351797444,96.93243767,14:05.7,tsunami,Sanjay Gupta,577,en,False
+952,Thread,Attention: flood detected near Surat shore. Take precautions!,19.72082742,75.72798918,14:05.7,flood,Vijay Singh,532,en,True
+953,Facebook,Update: coastal erosion forecasted near Chennai coast. Be prepared!,7.324645381,83.83475988,14:05.7,flood,Vijay Reddy,804,en,True
+954,Thread,Urgent: coastal erosion approaching Puri beach. Fishermen beware!,19.44918899,81.22423684,14:05.7,storm surge,Arjun Reddy,324,en,True
+955,Instagram,Advisory: Potential tsunami near Visakhapatnam port. Stay vigilant!,34.91311845,71.01737431,14:05.7,flood,Arjun Gupta,976,en,True
+956,Facebook,Update: storm surge forecasted near Kolkata delta. Be prepared!,17.08402834,78.42273167,14:05.7,storm surge,Vijay Reddy,112,en,False
+957,Thread,Observed cyclone near Chennai coast. Please stay alert!,20.57568901,81.8490008,14:05.7,coastal erosion,Amit Sharma,943,en,True
+958,Twitter,Alert: coastal erosion near Puri beach. Seek safe shelter immediately!,26.54900901,92.7454058,14:05.7,coastal erosion,Rahul Yadav,650,en,True
+959,Facebook,Alert: cyclone near Kochi coast. Seek safe shelter immediately!,32.06368182,94.60617891,14:05.7,flood,Amit Gupta,237,en,False
+960,Facebook,Attention: storm surge detected near Kolkata delta. Take precautions!,33.14926966,69.20048995,14:05.7,tsunami,Rajesh Gupta,360,en,True
+961,Facebook,Heads up! tsunami spotted near Goa beaches. Be cautious!,12.98363646,82.99364264,14:05.7,flood,Sanjay Singh,990,en,True
+962,Thread,Warning: flood reported near Chennai coast. Stay safe!,22.99917991,72.98863213,14:05.7,cyclone,Ramesh Singh,859,en,False
+963,Twitter,Notice: storm surge in the vicinity of Goa beaches. Keep safe!,31.62169864,90.92619487,14:05.7,storm surge,Vijay Patel,555,en,True
+964,Twitter,Attention: tsunami detected near Puducherry shores. Take precautions!,21.38285762,93.44254556,14:05.7,cyclone,Amit Sharma,63,en,True
+965,Twitter,Attention: coastal erosion detected near Kochi coast. Take precautions!,33.10578493,80.15392401,14:05.7,flood,Rajesh Singh,927,en,True
+966,Thread,Notice: cyclone in the vicinity of Mumbai harbor. Keep safe!,33.23328129,72.20119675,14:05.7,coastal erosion,Sanjay Kumar,916,en,False
+967,Instagram,Update: cyclone forecasted near Chennai coast. Be prepared!,9.139484163,69.07341589,14:05.7,storm surge,Arjun Patel,454,en,True
+968,Youtube comments,Advisory: Potential flood near Mumbai harbor. Stay vigilant!,14.73440864,96.88944632,14:05.7,flood,Rajesh Singh,265,en,True
+969,Facebook,Notice: tsunami in the vicinity of Kolkata delta. Keep safe!,7.019005265,79.037419,14:05.7,tsunami,Ramesh Gupta,444,en,False
+970,Facebook,Notice: cyclone in the vicinity of Puri beach. Keep safe!,30.96733479,80.40820833,14:05.7,flood,Arjun Singh,603,en,True
+971,Instagram,Alert: cyclone near Puri beach. Seek safe shelter immediately!,25.35625653,69.58223177,14:05.7,tsunami,Sanjay Kumar,623,en,False
+972,Youtube comments,Urgent: storm surge approaching Visakhapatnam port. Fishermen beware!,30.93985093,78.80903591,14:05.7,coastal erosion,Rahul Yadav,419,en,True
+973,Instagram,Attention: tsunami detected near Chennai coast. Take precautions!,14.36099222,68.58719963,14:05.7,tsunami,Sanjay Patel,339,en,True
+974,Thread,Notice: flood in the vicinity of Kerala backwaters. Keep safe!,18.18734664,74.86075043,14:05.7,cyclone,Ramesh Reddy,844,en,True
+975,Thread,Warning: cyclone reported near Chennai coast. Stay safe!,22.64361755,90.51191278,14:05.7,cyclone,Arjun Reddy,274,en,False
+976,Youtube comments,Advisory: Potential flood near Chennai coast. Stay vigilant!,11.49203823,95.76281912,14:05.7,cyclone,Rajesh Kumar,369,en,False
+977,Thread,Advisory: Potential tsunami near Mumbai harbor. Stay vigilant!,17.38198267,90.07497799,14:05.7,cyclone,Ramesh Reddy,842,en,False
+978,Youtube comments,Alert: storm surge near Surat shore. Seek safe shelter immediately!,10.96020068,78.04453191,14:05.7,cyclone,Vijay Gupta,226,en,False
+979,Twitter,Update: tsunami forecasted near Kolkata delta. Be prepared!,23.12652917,82.44378385,14:05.7,tsunami,Vijay Sharma,225,en,True
+980,Youtube comments,Attention: cyclone detected near Mumbai harbor. Take precautions!,26.98244678,78.03226392,14:05.7,cyclone,Rajesh Patel,939,en,False
+981,Twitter,Observed cyclone near Kolkata delta. Please stay alert!,15.04369757,73.35906464,14:05.7,storm surge,Ramesh Patel,643,en,True
+982,Instagram,Attention: storm surge detected near Kolkata delta. Take precautions!,19.20703178,73.10990734,14:05.7,tsunami,Rajesh Kumar,908,en,True
+983,Instagram,Alert: storm surge near Puducherry shores. Seek safe shelter immediately!,28.48806745,81.67911364,14:05.7,coastal erosion,Vijay Reddy,228,en,True
+984,Thread,Urgent: flood approaching Mumbai harbor. Fishermen beware!,18.13782542,93.72498766,14:05.7,tsunami,Vijay Patel,826,en,False
+985,Twitter,Caution: cyclone expected in Puducherry shores. Stay tuned for updates!,32.51110364,95.7627087,14:05.7,flood,Amit Patel,897,en,True
+986,Twitter,Caution: cyclone expected in Kerala backwaters. Stay tuned for updates!,25.11898094,85.92180897,14:05.7,coastal erosion,Rahul Reddy,369,en,True
+987,Twitter,Heads up! coastal erosion spotted near Goa beaches. Be cautious!,32.38219007,85.5820034,14:05.7,cyclone,Ramesh Patel,128,en,False
+988,Twitter,Warning: tsunami reported near Mumbai harbor. Stay safe!,26.30159762,91.06077639,14:05.7,cyclone,Vijay Patel,807,en,True
+989,Facebook,Update: flood forecasted near Chennai coast. Be prepared!,19.66443497,82.75077052,14:05.7,flood,Arjun Kumar,24,en,True
+990,Facebook,Notice: tsunami in the vicinity of Goa beaches. Keep safe!,34.88391419,69.57584266,14:05.7,cyclone,Rajesh Patel,698,en,False
+991,Instagram,Alert: storm surge near Puducherry shores. Seek safe shelter immediately!,10.0908049,88.58357359,14:05.7,coastal erosion,Amit Kumar,292,en,True
+992,Facebook,Caution: cyclone expected in Kerala backwaters. Stay tuned for updates!,28.80193148,97.17721449,14:05.7,coastal erosion,Rajesh Reddy,355,en,True
+993,Thread,Alert: storm surge near Visakhapatnam port. Seek safe shelter immediately!,18.589829,75.93079236,14:05.7,coastal erosion,Ramesh Gupta,837,en,False
+994,Facebook,Update: flood forecasted near Goa beaches. Be prepared!,26.16887358,87.99735504,14:05.7,tsunami,Ramesh Sharma,134,en,True
+995,Youtube comments,Update: cyclone forecasted near Surat shore. Be prepared!,13.93164293,93.42344627,14:05.7,tsunami,Amit Sharma,3,en,True
+996,Twitter,Observed tsunami near Kolkata delta. Please stay alert!,15.75502704,90.0997364,14:05.7,coastal erosion,Ramesh Reddy,226,en,True
+997,Instagram,Advisory: Potential tsunami near Puducherry shores. Stay vigilant!,34.50571634,96.3595502,14:05.7,tsunami,Rahul Patel,889,en,True
+998,Youtube comments,Alert: tsunami near Goa beaches. Seek safe shelter immediately!,23.6683712,84.33930335,14:05.7,tsunami,Arjun Patel,680,en,False
+999,Facebook,Observed storm surge near Chennai coast. Please stay alert!,25.71546685,74.32304162,14:05.7,storm surge,Rajesh Singh,444,en,True
+1000,Youtube comments,Urgent: storm surge approaching Mumbai harbor. Fishermen beware!,22.0796798,74.61758647,14:05.7,tsunami,Rahul Yadav,417,en,True
